@@ -4899,7 +4899,7 @@
    "situacao": 0,
    "regiao": "I",
    "email": "castilho@conseg.sp.gov.br",
-   "presidente": "1 ROSANGELA MARIA SILVA",
+   "presidente": "ROSANGELA MARIA SILVA",
    "eleicao": null,
    "homologacao": null,
    "oficio": null,
@@ -4920,27 +4920,27 @@
    "reunioes": [],
    "diretoria": [
     {
-     "nome": "1 ROSANGELA MARIA SILVA",
+     "nome": "ROSANGELA MARIA SILVA",
      "idCargo": 1,
      "cargo": "Presidente"
     },
     {
-     "nome": "2 JAIR SILVA LIMA",
+     "nome": "JAIR SILVA LIMA",
      "idCargo": 2,
      "cargo": "Vice-Presidente"
     },
     {
-     "nome": "3 LUCELIA SANTOS DA SILVA",
+     "nome": "LUCELIA SANTOS DA SILVA",
      "idCargo": 3,
      "cargo": "Primeiro Secretário"
     },
     {
-     "nome": "4 CARLOS PEREIRA",
+     "nome": "CARLOS PEREIRA",
      "idCargo": 4,
      "cargo": "Segundo Secretário"
     },
     {
-     "nome": "5 ROSILÉIA CORREIA DE PINHO MACHADO",
+     "nome": "ROSILÉIA CORREIA DE PINHO MACHADO",
      "idCargo": 6,
      "cargo": "Diretor Social"
     }
@@ -5583,7 +5583,7 @@
    "situacao": 0,
    "regiao": "I",
    "email": "cruzeiro@conseg.sp.gov.br",
-   "presidente": "01 José Rubens Marques Guimarães",
+   "presidente": "José Rubens Marques Guimarães",
    "eleicao": null,
    "homologacao": "2018-07-05",
    "oficio": "293/2018",
@@ -5604,27 +5604,27 @@
    "reunioes": [],
    "diretoria": [
     {
-     "nome": "01 José Rubens Marques Guimarães",
+     "nome": "José Rubens Marques Guimarães",
      "idCargo": 1,
      "cargo": "Presidente"
     },
     {
-     "nome": "02 Marcelo Galvão Novaes",
+     "nome": "Marcelo Galvão Novaes",
      "idCargo": 2,
      "cargo": "Vice-Presidente"
     },
     {
-     "nome": "03 Luciana Pellegrini Marques Penteado de Almeida",
+     "nome": "Luciana Pellegrini Marques Penteado de Almeida",
      "idCargo": 3,
      "cargo": "Primeiro Secretário"
     },
     {
-     "nome": "04 José Marcio de Araujo",
+     "nome": "José Marcio de Araujo",
      "idCargo": 4,
      "cargo": "Segundo Secretário"
     },
     {
-     "nome": "05 Carlos Alberto Cavalheiro de Aguiar",
+     "nome": "Carlos Alberto Cavalheiro de Aguiar",
      "idCargo": 6,
      "cargo": "Diretor Social"
     }
@@ -15932,7 +15932,7 @@
      "cargo": "Segundo Secretário"
     },
     {
-     "nome": "5 MAYARA CARNEIRO DA SILVA",
+     "nome": "MAYARA CARNEIRO DA SILVA",
      "idCargo": 6,
      "cargo": "Diretor Social"
     }
@@ -17004,7 +17004,7 @@
    "situacao": 0,
    "regiao": "I",
    "email": "stacruzdoriopardo@conseg.sp.gov.br",
-   "presidente": "1 Pedro Catalano Neto",
+   "presidente": "Pedro Catalano Neto",
    "eleicao": "2011-05-25",
    "homologacao": "2010-11-29",
    "oficio": "CC097/2010",
@@ -17025,7 +17025,7 @@
    "reunioes": [],
    "diretoria": [
     {
-     "nome": "1 Pedro Catalano Neto",
+     "nome": "Pedro Catalano Neto",
      "idCargo": 1,
      "cargo": "Presidente"
     },
@@ -19495,7 +19495,7 @@
    "situacao": 0,
    "regiao": "I",
    "email": "saojoaquimdabarra@conseg.sp.gov.br",
-   "presidente": "1 ROSA ANETE MURARI PEREIRA",
+   "presidente": "ROSA ANETE MURARI PEREIRA",
    "eleicao": null,
    "homologacao": null,
    "oficio": "",
@@ -19535,7 +19535,7 @@
    ],
    "diretoria": [
     {
-     "nome": "1 ROSA ANETE MURARI PEREIRA",
+     "nome": "ROSA ANETE MURARI PEREIRA",
      "idCargo": 1,
      "cargo": "Presidente"
     },
@@ -19550,12 +19550,12 @@
      "cargo": "Primeiro Secretário"
     },
     {
-     "nome": "4 MÁRCIA REGINA DA ROCHA",
+     "nome": "MÁRCIA REGINA DA ROCHA",
      "idCargo": 4,
      "cargo": "Segundo Secretário"
     },
     {
-     "nome": "5 ILDEBRANDO JOSÉ DOS SANTOS",
+     "nome": "ILDEBRANDO JOSÉ DOS SANTOS",
      "idCargo": 6,
      "cargo": "Diretor Social"
     }
@@ -25676,7 +25676,7 @@
    "situacao": 0,
    "regiao": "C",
    "email": "spvilaprudente@conseg.sp.gov.br",
-   "presidente": "1 FERNANDO MANSO",
+   "presidente": "FERNANDO MANSO",
    "eleicao": "2018-06-11",
    "homologacao": "2018-08-29",
    "oficio": "366/2018",
@@ -25734,12 +25734,12 @@
    ],
    "diretoria": [
     {
-     "nome": "1 FERNANDO MANSO",
+     "nome": "FERNANDO MANSO",
      "idCargo": 1,
      "cargo": "Presidente"
     },
     {
-     "nome": "3 PAULO ALEXANDRE STOIANOV",
+     "nome": "PAULO ALEXANDRE STOIANOV",
      "idCargo": 3,
      "cargo": "Primeiro Secretário"
     },

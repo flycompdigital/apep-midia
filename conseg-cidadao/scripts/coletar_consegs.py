@@ -60,7 +60,7 @@ def limpa(s):
 
 
 def sem_numero(nome):
-    return limpa(re.sub(r"^\s*\d+\s*[.\-)]\s*", "", nome or ""))
+    return limpa(re.sub(r"^\s*\d+\s*[.\-)ºª°]?\s*", "", nome or ""))
 
 
 def nome_de(o):
