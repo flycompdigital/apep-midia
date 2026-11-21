@@ -26,17 +26,17 @@ jobs:
       - name: Pillow (fotos)
         run: pip install pillow
       - name: Coletar história
-        run: python3 conseg-cidadao/scripts/coletar_historia.py
+        run: python3 cidadao-no-conseg/scripts/coletar_historia.py
       - name: Coletar CONSEGs
-        run: python3 conseg-cidadao/scripts/coletar_consegs.py
+        run: python3 cidadao-no-conseg/scripts/coletar_consegs.py
       - name: Coletar base de conhecimento
-        run: python3 conseg-cidadao/scripts/coletar_base.py
+        run: python3 cidadao-no-conseg/scripts/coletar_base.py
       - name: Abrir PR se houver mudança
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # A data da coleta muda sempre; só abre PR se mudou algo além dela.
-          git add -A conseg-cidadao/dados-ssp conseg-cidadao/documentos
+          git add -A cidadao-no-conseg/dados-ssp cidadao-no-conseg/documentos
           if git diff --cached --quiet -I '"atualizadoEm"'; then
             echo "Sem mudanças nos dados."
             exit 0
