@@ -1,4 +1,4 @@
-"""Carrossel (1080x1350) e story (1080x1920) de lançamento do CONSEG Cidadão."""
+"""Carrossel (1080x1350) e story (1080x1920) de lançamento do Cidadão no CONSEG."""
 import asyncio, pathlib, shutil
 from playwright.async_api import async_playwright
 
@@ -32,7 +32,7 @@ def tela(corpo, rodape, story=False):
     return f'<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><style>{CSS}{extra}</style></head><body><div class="w">{corpo}</div><div class="foot">{rodape}</div></body></html>'
 
 def rod(n, t, fim=False):
-    return f'<span><b>CONSEG Cidadão</b> · APEP Brasil</span><span class="sw">{"" if fim else "Arraste →&nbsp;&nbsp;"}{n}/{t}</span>'
+    return f'<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">{"" if fim else "Arraste →&nbsp;&nbsp;"}{n}/{t}</span>'
 
 SLIDES = [
  tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><div class="eb">Tecnologia cívica</div><h1>A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve tudo, bem fundamentado, à reunião mensal do CONSEG da sua região.</p>', rod(1, 4)),
@@ -41,7 +41,7 @@ SLIDES = [
  tela('<div class="eb" style="margin-top:0">Pauta da rua</div><h2>Do grupo da rua <span class="g">à reunião do CONSEG.</span></h2><div class="pauta"><div>💡 Poste apagado na esquina</div><div>🌳 Árvore cobrindo a iluminação</div><div>🚗 Veículo abandonado na rua</div></div><span class="btn">con.seg.br</span>', rod(4, 4, True)),
 ]
 STORY = tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><h1 style="font-size:96px">A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve a pauta à reunião mensal do CONSEG.</p><img src="qr-conseg.svg" style="width:300px;background:#fff;border-radius:24px;padding:14px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br</span>',
-             '<span><b>CONSEG Cidadão</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
+             '<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
 
 async def main():
     async with async_playwright() as p:

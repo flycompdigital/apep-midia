@@ -1,4 +1,4 @@
-# CONSEG Cidadão (con.seg.br)
+# Cidadão no CONSEG (con.seg.br)
 
 | Pasta | O que tem |
 |---|---|
@@ -7,7 +7,7 @@
 | `scripts/` | Coletores (rodam toda segunda pela rotina `.github/workflows/atualizar-ssp.yml`) |
 | `social/` | Posts e roteiros de vídeo (lançamento, app e Bip IA, HeyGen) |
 | `impressos/` | Folder A4 e QR Code |
-| `marca/` | Logo do CONSEG Cidadão e da APEP |
+| `marca/` | Logo do Cidadão no CONSEG e da APEP |
 
 ## dados-ssp
 

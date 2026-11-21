@@ -1,4 +1,4 @@
-"""Carrossel (1080x1350) e story (1080x1920): app do CONSEG Cidadão e o Bip IA."""
+"""Carrossel (1080x1350) e story (1080x1920): app do Cidadão no CONSEG e o Bip IA."""
 import asyncio, pathlib, shutil
 from playwright.async_api import async_playwright
 
@@ -37,16 +37,16 @@ def tela(corpo, rodape, story=False):
     return f'<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><style>{CSS}{extra}</style></head><body><div class="w">{corpo}</div><div class="foot">{rodape}</div></body></html>'
 
 def rod(n, t, fim=False):
-    return f'<span><b>CONSEG Cidadão</b> · APEP Brasil</span><span class="sw">{"" if fim else "Arraste →&nbsp;&nbsp;"}{n}/{t}</span>'
+    return f'<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">{"" if fim else "Arraste →&nbsp;&nbsp;"}{n}/{t}</span>'
 
 SLIDES = [
- tela('<style>.w{justify-content:flex-start}</style><img class="lg" src="conseg-cidadao-assinatura.svg"><div class="eb">Novo</div><h1 style="font-size:90px">O CONSEG Cidadão <span class="g">no seu celular.</span></h1><p class="s" style="max-width:540px;font-size:40px">App gratuito, com o Bip IA para tirar dúvidas e a área para registrar as demandas da rua.</p><div class="fone"><img src="app-bip.png"></div>', rod(1, 4)),
- tela('<div class="eb" style="margin-top:0">Conheça o Bip IA</div><h2>Dúvidas sobre o CONSEG? <span class="g">Pergunte 24h.</span></h2><p class="s">O assistente do CONSEG Cidadão explica como funciona o conselho, ajuda a organizar a rua e transforma a reclamação em uma demanda bem escrita.</p><div style="margin-top:26px"><span class="chip">O que é o CONSEG?</span><span class="chip">Poste apagado é com quem?</span><span class="chip">Como escrevo a demanda?</span></div>', rod(2, 4)),
+ tela('<style>.w{justify-content:flex-start}</style><img class="lg" src="conseg-cidadao-assinatura.svg"><div class="eb">Novo</div><h1 style="font-size:90px">O Cidadão no CONSEG <span class="g">no seu celular.</span></h1><p class="s" style="max-width:540px;font-size:40px">App gratuito, com o Bip IA para tirar dúvidas e a área para registrar as demandas da rua.</p><div class="fone"><img src="app-bip.png"></div>', rod(1, 4)),
+ tela('<div class="eb" style="margin-top:0">Conheça o Bip IA</div><h2>Dúvidas sobre o CONSEG? <span class="g">Pergunte 24h.</span></h2><p class="s">O assistente do Cidadão no CONSEG explica como funciona o conselho, ajuda a organizar a rua e transforma a reclamação em uma demanda bem escrita.</p><div style="margin-top:26px"><span class="chip">O que é o CONSEG?</span><span class="chip">Poste apagado é com quem?</span><span class="chip">Como escrevo a demanda?</span></div>', rod(2, 4)),
  tela('<div class="eb" style="margin-top:0">Área do cidadão</div><h2>A demanda da rua <span class="g">registrada e acompanhada.</span></h2><div class="card"><b>1</b><h3>Registre</h3><p>O que é, onde e desde quando. Sem nomes de pessoas.</p></div><div class="card"><b>2</b><h3>Apoie</h3><p>Toque em "Também quero" nas demandas dos vizinhos.</p></div><div class="card"><b>3</b><h3>Acompanhe</h3><p>Veja o que foi à pauta e o retorno do CONSEG.</p></div>', rod(3, 4)),
  tela('<div class="eb" style="margin-top:0">Instale em segundos</div><h2>Abra <span class="g">con.seg.br/app</span> no celular.</h2><div class="passo"><i>📱</i><span><b>iPhone:</b> Compartilhar → Adicionar à Tela de Início</span></div><div class="passo"><i>🤖</i><span><b>Android:</b> toque em Instalar</span></div><span class="btn">con.seg.br/app</span><p class="aviso">Não é canal oficial nem de emergência. Emergência: 190. Denúncia anônima: 181.</p>', rod(4, 4, True)),
 ]
-STORY = tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><h1 style="font-size:92px">O CONSEG Cidadão <span class="g">no seu celular.</span></h1><p class="s">Bip IA 24h e as demandas da sua rua num app gratuito.</p><img src="qr-app.png" style="width:300px;border-radius:24px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br/app</span>',
-             '<span><b>CONSEG Cidadão</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
+STORY = tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><h1 style="font-size:92px">O Cidadão no CONSEG <span class="g">no seu celular.</span></h1><p class="s">Bip IA 24h e as demandas da sua rua num app gratuito.</p><img src="qr-app.png" style="width:300px;border-radius:24px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br/app</span>',
+             '<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
 
 async def main():
     async with async_playwright() as p:

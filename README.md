@@ -2,7 +2,7 @@
 
 Repositório público da APEP Brasil (Associação Poder Emana do Povo) para tudo o que é público nos projetos da associação:
 
-- **conseg-cidadao/**: CONSEG Cidadão (con.seg.br)
+- **conseg-cidadao/**: Cidadão no CONSEG (con.seg.br)
 - **luminat21/**: LuminaT21 (luminat21.org)
 - **apep/**: identidade e materiais da própria APEP
 
