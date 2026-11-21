@@ -1,0 +1,1787 @@
+{
+ "fonte": "Coordenadoria Estadual dos CONSEG - SSP-SP (Downloads)",
+ "url": "http://www.ssp.sp.gov.br/conseg/portal/downloads",
+ "atualizadoEm": "2026-11-21T09:50:52+00:00",
+ "secoes": [
+  {
+   "codigo": "1",
+   "nome": "LEGISLAÇÃO",
+   "itens": [
+    {
+     "codigo": "1.1",
+     "titulo": "CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL",
+     "arquivoId": "585f8a9d-776d-4ba4-a7cb-7d24f45fc52b",
+     "arquivo": "1.1 Constituição da República Federativa do Brasil.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (401)"
+    },
+    {
+     "codigo": "1.2",
+     "titulo": "DECRETO ESTADUAL Nº25.366, DE 11 DE JUNHO DE 1986 (SOBRE A CRIAÇÃO DA FUNÇÃO DE COORDENADOR DOS CONSEG)",
+     "arquivoId": "1b03589c-b82f-4daa-9b5c-707b1037a4e7",
+     "arquivo": "1.2 Decreto Estadual nº 25.366, de 11 de junho de 1986 (dispõe sobre a criação da função de Coordenador dos CONSEGs).pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (401)"
+    },
+    {
+     "codigo": "1.3",
+     "titulo": "DECRETO ESTADUAL Nº60.873 (CONSEG VIRTUAL E SUAS DEMAIS PROVIDÊNCIAS)",
+     "arquivoId": "22edca2a-0dc3-4000-bd7c-97bb5d9b8316",
+     "arquivo": "1.3 Decreto Estadual nº 60.873 (CONSEG virtual e outras providências).pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (401)"
+    },
+    {
+     "codigo": "1.4",
+     "titulo": "LEI COMPLEMENTAR Nº974 (CRIA NA ESTRUTURA DA SSP, A COORDENADORIA ESTADUAL DOS CONSEG)",
+     "arquivoId": "58d8f687-e684-45f4-a449-f17c6f5dce2e",
+     "arquivo": "1.4 Lei Complementar nº 974, cria na estrutura da SSP a Coordenadoria Estadual dos CONSEGs.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.5",
+     "titulo": "LEI Nº13.299, SOBRE A PARTICIPAÇÃO DO PODER EXECUTIVO NAS REUNIÕES DOS CONSEG (PREFEITURA DE SÃO PAULO)",
+     "arquivoId": "9c1c5f03-2240-4dc8-8f8d-0da5f78e477a",
+     "arquivo": "1.5 Lei nº 13.299, participação dos integrantes do Poder Executivo nas reuniões dos CONSEGs.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.6",
+     "titulo": "LEI Nº14.901, SOBRE A PARTICIPAÇÃO DA CET NAS REUNIÕES DOS CONSEG (PREFEITURA DE SÃO PAULO)",
+     "arquivoId": "c34c477e-e296-426c-aa72-a19beed7c749",
+     "arquivo": "1.6 Lei nº 14.901, participação da CET nas reuniões dos CONSEGs.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.7",
+     "titulo": "LEI Nº16.086, DE 06 DE JANEIRO DE 2016 - INSTITUI A \"SEMANA DA CIDADANIA E SEGURANÇA\"",
+     "arquivoId": "048081fd-3f73-4a5c-bab7-9ce30f617bf8",
+     "arquivo": "1.7 Lei nº 16.086, de 06 de janeiro de 2016 - Assembleia Legislativa do Estado de São Paulo.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.8",
+     "titulo": "PORTARIA CONSEG Nº001/2022 - E-MAIL FUNCIONAL",
+     "arquivoId": "ccc6ec23-d6e0-4580-9d5c-2a31f46ccaee",
+     "arquivo": "1.8 Portaria CONSEG nº 001.2022 - e-mail funcional.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.9",
+     "titulo": "RESOLUÇÃO SSP Nº013, DE 28 DE FEVEREIRO DE 2018 - REGULAMENTO DOS CONSEG (TEXTO NORMATIVO)",
+     "arquivoId": "5f58ce3c-b183-47c7-b2b7-65c912b55d3e",
+     "arquivo": "1.9 Resolução SSP n° 013, 28.02.2018 - Regulamento dos CONSEGs (TEXTO NORMATIVO).pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.10",
+     "titulo": "RESOLUÇÃO SSP Nº013, DE 28 DE FEVEREIRO DE 2018 - REGULAMENTO DOS CONSEG (CAPA E HINO)",
+     "arquivoId": "0d29d88c-7d6a-4920-9c9e-deb3b277b06e",
+     "arquivo": "1.10 Resolução SSP n° 013, 28.02.2018 - Regulamento dos CONSEGs (CAPA).jpg",
+     "tipo": "jpg",
+     "copiado": false
+    },
+    {
+     "codigo": "1.11",
+     "titulo": "RESOLUÇÃO SSP Nº37, DE 1985 (REGULAMENTO DOS CONSEG)",
+     "arquivoId": "01cffb83-3037-4c15-98e4-d10d7cc75844",
+     "arquivo": "1.11 Resolução SSP Nº 37, 1985 (Regulamento dos CONSEGs - revogado).pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.12",
+     "titulo": "RESOLUÇÃO SSP Nº72, QUE DISPÕE SOBRE O EMBLEMA, LOGOTIPO DOS CONSEG",
+     "arquivoId": "3e053aeb-03ae-4156-a0fb-dd759c4581ce",
+     "arquivo": "1.12 Resolução SSP Nº 72, dispõe sobre o emblema, logotipo dos CONSEGs.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "1.13",
+     "titulo": "RESOLUÇÃO SSP Nº138, REGULAMENTO DO PÊMIO FRANCO MONTORO DE PARTICIPAÇÃO COMUNITÁRIA, COM NOVA REDAÇÃO NO ARTIGO 7º",
+     "arquivoId": "d83db4f0-e29c-4ec2-9e31-32d71fd09088",
+     "arquivo": "1.13 RESOLUÇÃO SSP Nº 138, Regulamento do Prêmio Franco Montoro de participação comunitária, nova redação artigo 7º..pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "2",
+   "nome": "ROTEIRO PARA REATIVAÇÃO DE CONSEG",
+   "itens": [
+    {
+     "codigo": "2.1",
+     "titulo": "COMO RETIVAR O CONSEG",
+     "arquivoId": "876401f0-0383-42ad-9001-7f03bebb188a",
+     "arquivo": "2.1. COMO REATIVAR O CONSEG.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "2.2",
+     "titulo": "OFÍCIO DE REATIVAÇÃO",
+     "arquivoId": "deb2bb3f-ac8c-41df-aba8-8a4fa8be8aaf",
+     "arquivo": "2.2. OFÍCIO DE REATIVAÇÃO.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "2.3",
+     "titulo": "ATA DA REUNIÃO DE REATIVAÇÃO",
+     "arquivoId": "dd34d51e-c3ad-42a9-b6f9-828089b57ef2",
+     "arquivo": "2.3. ATA DA REUNIÃO DE REATIVAÇÃO.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "2.4",
+     "titulo": "FICHA CADASTRAL",
+     "arquivoId": "637432f2-f3da-47bb-9e0f-e5989d4fbcc3",
+     "arquivo": "2.4. FICHA CADASTRAL - 2025.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "2.5",
+     "titulo": "TERMO DE COMPROMISSO - MEMBRO EFETIVO",
+     "arquivoId": "c4484efa-ab3e-4814-a7a1-b2d2fdd44a81",
+     "arquivo": "2.5. TERMO DE COMPROMISSO - MEMBRO EFETIVO.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "2.6",
+     "titulo": "LISTA DE PRESENÇA DA REUNIÃO DO CONSEG",
+     "arquivoId": "7e48177a-db11-454e-be89-53427eb2880b",
+     "arquivo": "2.6. LISTA DE PRESENÇA DA REUNIÃO DO CONSEG.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "3",
+   "nome": "PROCESSO ELEITORAL",
+   "itens": [
+    {
+     "codigo": "3.1",
+     "titulo": "PORTARIA CONSEG Nº 008/2026 - PROCESSO ELEITORAL - BIÊNIO 2027/2029",
+     "arquivoId": "164c84cb-1b05-4b36-9868-84699c4338be",
+     "arquivo": "PORTARIA DIRCONSEG N° 008.2026 - 8.10.2026 - DEFINE INSTRUÇÕES DO PROCESSO ELEITORAL - BIÊNIO 2027-2029.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.2",
+     "titulo": "CAPA - PROCESSO ELEITORAL - 2027-2029",
+     "arquivoId": "186df088-c85e-4a02-98a7-2247a541ab47",
+     "arquivo": "1. CAPA - PROCESSO ELEITORAL.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.3",
+     "titulo": "TERMO DE ENCERRAMENTO E CERTIFICAÇÃO DE AUTENTICIDADE ELEITORAL ASSINADO VIA GOV",
+     "arquivoId": "a4555c12-35fa-4843-ad94-144228b74127",
+     "arquivo": "3. TERMO DE ENCERRAMENTO E CERTIFICAÇÃO DE AUTENTICIDADE ELEITORAL ASSINADO VIA GOV.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.4",
+     "titulo": "ATA OFICIAL DO TERMO DE ABERTURA DO PROCESSO ELEITORAL - FEVEREIRO DE 2027",
+     "arquivoId": "26533b74-5ab0-40e9-89a6-686c951badd1",
+     "arquivo": "4. ATA OFICIAL DO TERMO DE ABERTURA DO PROCESSO ELEITORAL - FEVEREIRO DE 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.5",
+     "titulo": "ENCERRAMENTO DO PRAZO DE INSCRIÇÕES DAS CHAPAS E ENTREGA DE DOCUMENTOS - MARÇO DE 2027",
+     "arquivoId": "94d3b9de-5f96-4fb9-acc2-f7443e7acf22",
+     "arquivo": "5. ENCERRAMENTO DO PRAZO DE INSCRIÇÕES DAS CHAPAS E ENTREGA DE DOCUMENTOS - MARÇO DE 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.6",
+     "titulo": "REQUERIMENTO DE INSCRIÇÃO DE CHAPA - ATÉ 31 DE MARÇO DE 2027",
+     "arquivoId": "2267f6d8-478f-45d8-8f45-1acb8bdcf888",
+     "arquivo": "6. REQUERIMENTO DE INSCRIÇÃO DE CHAPA - ATÉ 31 DE MARÇO DE 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.7",
+     "titulo": "FICHA CADASTRAL 2027",
+     "arquivoId": "30ee697d-6d44-4590-a4b2-b064335519c8",
+     "arquivo": "7. FICHA CADASTRAL.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.8",
+     "titulo": "RECIBO PROTOCOLO ENTREGA CHAPA PROCESSO ELEITORAL 2027",
+     "arquivoId": "4e4027bb-18d8-4208-ad65-7bc3a6fb01cb",
+     "arquivo": "8. RECIBO_PROTOCOLO_ENTREGA_CHAPA_PROCESSO_ELEITORAL_2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.9",
+     "titulo": "PEDIDO DE IMPUGNÇÃO À CANDIDATURA DE MEMBRO EFETIVO - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "914d495c-0bd3-4992-9762-ed6505c04f8b",
+     "arquivo": "9. PEDIDO DE IMPUGNÇÃO À CANDIDATURA DE MEMBRO EFETIVO - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.10",
+     "titulo": "DECISÃO DOS MEMBROS NATOS SOBRE PEDIDO DE IMPUGNAÇÃO - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "b3282737-fea0-44b5-8b73-3eba12bd5741",
+     "arquivo": "10. DECISÃO DOS MEMBROS NATOS SOBRE PEDIDO DE IMPUGNAÇÃO - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.11",
+     "titulo": "PEDIDO DE SUBSTITUIÇÃO DE CANDIDATO IMPUGNADO - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "d6066440-60a4-421e-82a9-c0a0e8188a19",
+     "arquivo": "11. PEDIDO DE SUBSTITUIÇÃO DE CANDIDATO IMPUGNADO - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.12",
+     "titulo": "ATA DA REUNIÃO ORDINÁRIA DE ELEIÇÃO - 14 DE ABRIL DE 2027",
+     "arquivoId": "97e0d117-36d4-4e6e-ab46-7335356bcb65",
+     "arquivo": "12. ATA DA REUNIÃO ORDINÁRIA DE ELEIÇÃO - 14 DE ABRIL DE 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.13",
+     "titulo": "RELATÓRIO DA ELEIÇÃO POR VOTAÇÃO - 14 DE ABRIL DE 2027",
+     "arquivoId": "c35cee51-ce17-461a-bf1e-d79ab3792d35",
+     "arquivo": "13. RELATÓRIO DA ELEIÇÃO POR VOTAÇÃO - 14 DE ABRIL DE 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.14",
+     "titulo": "LISTA DAS PESSOAS QUE VOTARAM - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "9b35ab53-c335-4866-b94c-3bfc96c1e291",
+     "arquivo": "14. LISTA DAS PESSOAS QUE VOTARAM - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.15",
+     "titulo": "INTERPOSIÇÃO DE RECURSO CONTRA RESULTADO FINAL - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "53d2cd27-d9ee-4510-9d0c-e7aa5c2df586",
+     "arquivo": "15. INTERPOSIÇÃO DE RECURSO CONTRA RESULTADO FINAL - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.16",
+     "titulo": "DECISÃO DOS MEMBROS NATOS SOBRE RECURSOS INTERPOSTOS - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "0ad122ba-85bc-4403-8218-9997d3d66cc6",
+     "arquivo": "16. DECISÃO DOS MEMBROS NATOS SOBRE RECURSOS INTERPOSTOS - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.17",
+     "titulo": "ACLAMAÇÃO - PROCLAMAÇÃO DO RESULTADO FINAL POR ACLAMAÇÃO - 2027",
+     "arquivoId": "ece9169f-ef2f-4e4b-bbc2-9270fc9b5a1e",
+     "arquivo": "17. PROCLAMAÇÃO DO RESULTADO FINAL DO PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.18",
+     "titulo": "PROCLAMAÇÃO DO RESULTADO FINAL DO PROCESSO ELEITORAL - 2027",
+     "arquivoId": "db1e92aa-7ef8-4ab0-af41-e93fbf4f6abc",
+     "arquivo": "18. TERMO DE RECEBIMENTOS DE LIVROS - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.19",
+     "titulo": "TERMO DE RECEBIMENTOS DE LIVROS - PROCESSO ELEITORAL - 2027",
+     "arquivoId": "e19a574d-c44f-4407-aba5-0ed9474c8462",
+     "arquivo": "18. TERMO DE RECEBIMENTOS DE LIVROS - PROCESSO ELEITORAL - 2027.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "3.20",
+     "titulo": "PROCESSO ELEITORAL - CÉDULA",
+     "arquivoId": "3e1d3b1e-2480-498f-a772-e7fde7f0a28d",
+     "arquivo": "13.b. PROCESSO ELEITORAL - CÉDULA.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "4",
+   "nome": "REGISTRO DE IDENTIFICAÇÃO DO CONSEG-RIC",
+   "itens": [
+    {
+     "codigo": "4.1",
+     "titulo": "REGISTRO DE IDENTIFICAÇÃO DO CONSEG-RIC",
+     "arquivoId": "5573c442-927e-4f2a-be2d-535e921af2bf",
+     "arquivo": "4.1 Portaria CONSEG n° 002-2015 - RIC (MODELO).doc",
+     "tipo": "doc",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "5",
+   "nome": "IDENTIDADE VISUAL DOS CONSEG",
+   "itens": [
+    {
+     "codigo": "5.1",
+     "titulo": "CERTIFICADO CONSEG - MODELO 39 ANOS",
+     "arquivoId": "431e6f81-636c-449d-a3aa-86a6afbf04a0",
+     "arquivo": "1. CERTIFICADO CONSEG -  Modelo 39 Anos a.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "5.2",
+     "titulo": "LOGO CONSEG - FUNDO BRANCO (JPG)",
+     "arquivoId": "a667a9b5-0789-4b4d-b50f-856fd74c25a0",
+     "arquivo": "2. LOGO CONSEG - FUNDO BRANCO.jpg",
+     "tipo": "jpg",
+     "copiado": false
+    },
+    {
+     "codigo": "5.3",
+     "titulo": "LOGO CONSEG - FUNDO TRANSPARENTE (PNG)",
+     "arquivoId": "99b55098-e68c-461b-8a9e-61362f748280",
+     "arquivo": "3. LOGO CONSEG - FUNDO TRANSPARENTE.png",
+     "tipo": "png",
+     "copiado": false
+    },
+    {
+     "codigo": "5.4",
+     "titulo": "LOGO CONSEG (PDF)",
+     "arquivoId": "b6882ed2-e84f-4585-87d9-1605931ce0d6",
+     "arquivo": "4. LOGO CONSEG - PDF.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "5.5",
+     "titulo": "MANUAL DE IDENTIDADE VISUAL DO CONSEG (PDF)",
+     "arquivoId": "c788fd45-7048-452a-a2bb-0464cbe1d664",
+     "arquivo": "5. MANUAL DE IDENTIDADE VISUAL DO CONSEG (2).pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "5.6",
+     "titulo": "MENSAGEM CIRCULAR - 01-22 - COORDENADORIA DOS CONSEG",
+     "arquivoId": "34ae861b-a082-4293-b9fa-57e40397c692",
+     "arquivo": "6. MENSAGEM CIRCULAR - 01-22 - COORDENADORIA DOS CONSEG.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "5.7",
+     "titulo": "CONVITE REUNIÃO DO CONSEG",
+     "arquivoId": "ccf12539-2a7d-486a-9780-360bb5252e0e",
+     "arquivo": "7. CONVITE DE REUNIÃO DO CONSEG.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "5.8",
+     "titulo": "TEMPLATE PARA APRESENTAÇÃO",
+     "arquivoId": "4b70c97d-4046-4416-9647-043a695ebc88",
+     "arquivo": "TEMPLATE PARA APRESENTAÇÃO.JPG",
+     "tipo": "jpg",
+     "copiado": false
+    },
+    {
+     "codigo": "5.9",
+     "titulo": "BANDEIRA DO CONSEG",
+     "arquivoId": "b5e3d1bf-ed3f-4806-899f-c101c6b24132",
+     "arquivo": "BANDEIRA DO CONSEG.jpeg",
+     "tipo": "jpeg",
+     "copiado": false
+    }
+   ]
+  },
+  {
+   "codigo": "6",
+   "nome": "HINOS E CANÇÕES",
+   "itens": [
+    {
+     "codigo": "6.1",
+     "titulo": "HINO NACIONAL BRASILEIRO",
+     "arquivoId": "a90aac47-bd9e-40ab-ac76-638e9f41c383",
+     "arquivo": "6.1 Hino Nacional Brasileiro.wma",
+     "tipo": "wma",
+     "copiado": false
+    },
+    {
+     "codigo": "6.2",
+     "titulo": "O CONSELHO É NOSSO",
+     "arquivoId": "aa91adcb-6296-4c31-ab03-dd6b666d29ca",
+     "arquivo": "6.2 O Conselho é Nosso.wma",
+     "tipo": "wma",
+     "copiado": false
+    },
+    {
+     "codigo": "6.3",
+     "titulo": "PALAVRAS DO GOVERNADOR FRANCO MONTORO",
+     "arquivoId": "2815871a-3bb0-4c45-a930-a95095c4036e",
+     "arquivo": "6.3 Palavras do Governador Franco Montoro.wma",
+     "tipo": "wma",
+     "copiado": false
+    },
+    {
+     "codigo": "6.4",
+     "titulo": "CANÇÃO DA POLÍCIA MILITAR",
+     "arquivoId": "9e0fb4ab-814a-4fbf-aa66-ba23ad442540",
+     "arquivo": "6.4 Canção da Polícia Militar - Vocal.mp3",
+     "tipo": "mp3",
+     "copiado": false
+    },
+    {
+     "codigo": "6.5",
+     "titulo": "HINO À POLÍCIA CIVIL",
+     "arquivoId": "8bdd1ae3-dbb3-474d-ae52-d975854d367e",
+     "arquivo": "6.5 Hino à Polícia Civil.wma",
+     "tipo": "wma",
+     "copiado": false
+    },
+    {
+     "codigo": "6.6",
+     "titulo": "HINO À BANDEIRA NACIONAL",
+     "arquivoId": "9edd26b2-5449-4a38-97dc-4a137553bdc2",
+     "arquivo": "6.6 Hino à Bandeira Nacional.wma",
+     "tipo": "wma",
+     "copiado": false
+    },
+    {
+     "codigo": "6.7",
+     "titulo": "HINO DA INDEPENDÊNCIA DO BRASIL",
+     "arquivoId": "9111e546-3389-4cdc-9378-bb6073f707d8",
+     "arquivo": "6.7 Hino da Independência do Brasil.wma",
+     "tipo": "wma",
+     "copiado": false
+    },
+    {
+     "codigo": "6.8",
+     "titulo": "HINO DA PROCLAMAÇÃO DA REPÚBLICA",
+     "arquivoId": "cc528c6f-9117-4acd-8958-f6f399002879",
+     "arquivo": "6.8 Hino da Proclamação da República.wma",
+     "tipo": "wma",
+     "copiado": false
+    }
+   ]
+  },
+  {
+   "codigo": "7",
+   "nome": "DA ADMINISTRAÇÃO DO CONSEG",
+   "itens": [
+    {
+     "codigo": "7.1",
+     "titulo": "CIRCULAR CONSEG - CARTÃO DE VISITA",
+     "arquivoId": "73c1898f-74c2-4368-aeea-5abc08648dcc",
+     "arquivo": "7.1 Circular CONSEG - Cartão de visita.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "7.2",
+     "titulo": "CIRCULAR CONSEG - CÓPIAS DE ATAS E DEMAIS DOCUMENTOS",
+     "arquivoId": "7e55c565-b633-4b5f-be6f-388486326780",
+     "arquivo": "7.2 MENSAGEM CIRCULAR AOS CONSEGs (LEI DE ACESSO A INFORMAÇÃO E LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS).pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "7.3",
+     "titulo": "CIRCULAR CONSEG - ORIENTAÇÃO SOBRE O ENVIO DE ATA",
+     "arquivoId": "f1346f4b-ecc8-42e1-a456-b40e1fff21c1",
+     "arquivo": "7. 3 Circular CONSEG - Orientação sobre a Proibição de envio de Ata de Reunião física por meio de correio eletrônico.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "7.4",
+     "titulo": "FORMULÁRIO DE DEMANDA",
+     "arquivoId": "ad5c27c9-5744-4df6-858d-827ae9ca13f3",
+     "arquivo": "7.4 Ficha Demandas.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "7.5",
+     "titulo": "MODELO DE ATA FÍSICA PADRÃO",
+     "arquivoId": "b4d409ea-552c-40d1-bc47-8bb928527379",
+     "arquivo": "MODELO DE ATA PADRAO.doc",
+     "tipo": "doc",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "8",
+   "nome": "CHALLENGE COIN",
+   "itens": [
+    {
+     "codigo": "8.1",
+     "titulo": "PORTARIA CECONSEG Nº 002.2023 (CHALLENGE COIN)",
+     "arquivoId": "7df469b9-5163-44c6-a440-486dcaea1d77",
+     "arquivo": "PORTARIA CECONSEG Nº 002.2023 (CHALLENGE COIN) - ASSINADA.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "8.2",
+     "titulo": "OFÍCIO DE SOLICITAÇÃO DE HOMOLOGAÇÃO DE CHALLENGE COIN",
+     "arquivoId": "68953c7b-d549-4504-848d-a55af59b6146",
+     "arquivo": "8.2 OFÍCIO DE SOLICITAÇÃO DE HOMOLOGAÇÃO DE CHALLENGE COIN.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "8.3",
+     "titulo": "MEMORIAL DESCRITIVO DE SOLICITAÇÃO DE HOMOLOGAÇÃO DE CHALLENGE COIN",
+     "arquivoId": "37539552-8411-476f-9939-5665c9c68334",
+     "arquivo": "8.3 MEMORIAL DESCRITIVO DE SOLICITAÇÃO DE HOMOLOGAÇÃO DE CHALLENGE COIN.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "9",
+   "nome": "BIBLIOTECA DIGITAL (MONOGRAFIAS, ARTIGOS E E-BOOKS)",
+   "itens": [
+    {
+     "codigo": "9.1",
+     "titulo": "Experiências de mediação comunitária no Brasil: desafios teóricos e práticos - Ariane Gontijo L. Leandro - Editora Mediare",
+     "arquivoId": "0d131f7c-66e5-47d9-9f5f-0bff48ee0593",
+     "arquivo": "Experiencias-de-Mediacao-comunitaria-no-Brasil-Ariane-Gontijo - autorizado.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.2",
+     "titulo": "2010 - Programa Nacional de Direitos Humanos - PNDH 3 - Secretaria de Direitos Humanos da Presidência da República",
+     "arquivoId": "303bb258-d1f9-4144-9074-3b2ff1e0b405",
+     "arquivo": "programmanacionaldireitoshumanos2010 - autorizado.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.4",
+     "titulo": "1984 - A Integração do Policial Militar na comunidade através do Posto Policial instalado em bairros - TCel PM Moacyr Alvarenga de Oliveira",
+     "arquivoId": "8ecbb427-7f1b-4bae-b763-856a879e70b9",
+     "arquivo": "1984 - A Integração do Policial Militar na comunidade através do Posto Policial instalado em bairros - Ten Cel PM Moacyr Alvarenga de Oliveira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.5",
+     "titulo": "1984 - A Polícia Militar: Fator de segurança - Maj PM Walter Luiz Garcia",
+     "arquivoId": "d18e334a-443f-4bbf-8fff-1e7d60e7072d",
+     "arquivo": "1984 - A Polícia Militar, fator de segurança - MAJOR PM Walter Luiz Garcia.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.8",
+     "titulo": "1985 - A participação da Polícia Militar nos Conselhos Comunitários - Cap PM Sebastião Francisco dos Passos Sobrinho",
+     "arquivoId": "53129e86-2f8d-4990-a545-30cf289c3960",
+     "arquivo": "1985 - A participação da Polícia Militar nos Conselhos Comunitários - CAP PM Sebastião Francisco dos Passos Sobrinho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.9",
+     "titulo": "1985 - Participação comunitária e municipal no Policiamento Ostensivo fardado no Interior do Estado - TCel PM Tércio Varela Sendin",
+     "arquivoId": "cee119f5-7e01-4c42-9fa2-8588c6dd3c50",
+     "arquivo": "1985 - Participação comunitária e municipal no Policiamento Ostensivo fardado no Interior do Estado - TEN CEL PM Tércio Varela Sendin.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.10",
+     "titulo": "1985 - Conselho Comunitário de Segurança - TCel PM Paschoal Amaro de Carvalho",
+     "arquivoId": "69a3c480-4486-45e2-90b9-e3d602e37c3f",
+     "arquivo": "1985 - Conselho Comunitário de Segurança - TEN CEL PM Paschoal Amaro de Carvalho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.11",
+     "titulo": "1987 - Os Conselhos Comunitários de Segurança e as Polícias Militares - CONSEGS - Cap PM Pedro Schincariol",
+     "arquivoId": "bf56316f-5bde-4e10-a69d-4c07bee57fd9",
+     "arquivo": "1987 - Os Conselhos Comunitários de Segurança e as Polícias Militares (CONSEGS) - CAP PM PEDRO SCHINCARIOL.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.15",
+     "titulo": "1988 - Os Conselhos Comunitários de Segurança - A Comunidade e a PM - Cap PM Benedito Pereira da Silva",
+     "arquivoId": "d6ac09a2-c106-48eb-94dd-b08269129852",
+     "arquivo": "1988 - Os Conselhos Comunitários de Segurança - A Comunidade e a PM - CAP PM Benedito Pereira da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.16",
+     "titulo": "1988 - Problemas sociais e seus fatores influentes na comunidade - Cap PM Pedro Lara Malvão",
+     "arquivoId": "0b894982-fd51-4c5d-8db2-558d712876e4",
+     "arquivo": "1988 - Problemas sociais e seus fatores influentes na comunidade - CAP PM Pedro Lara Malvão.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.17",
+     "titulo": "1988 - A integração da Polícia Militar junto a Comunidade Interiorana - Cap PM Eduardo Luiz Carbonari",
+     "arquivoId": "571a58be-21ee-49aa-912d-c27b00760c2c",
+     "arquivo": "1988 - A integração da Polícia Militar junto a Comunidade Interiorana - CAP PM Eduardo Luiz Carbonari.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.18",
+     "titulo": "1988 - Comunicação Comunitária - A importância para a Polícia Militar - Cap PM Paulo Régis Salgado",
+     "arquivoId": "4ead1370-be86-42c5-aef8-9c104aea4c7e",
+     "arquivo": "1988 - Comunicação Comunitária - A importância para a Polícia Militar - CAP PM Paulo Régis Salgado.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.19",
+     "titulo": "1988 - Qualidades essenciais do Policial Militar no relacionamento com a Comunidade - TCel PM José Roberto Zanni",
+     "arquivoId": "7916b63b-1994-4070-8a14-70738fca9f05",
+     "arquivo": "1988 - Qualidades essenciais do Policial Militar no relacionamento com a Comunidade - TEN CEL PM José Roberto Zanni.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.20",
+     "titulo": "1989 - Conselho Comunitário de Segurança, estrutura e dinâmica do Grupo - Cap PM Gilberto Audi da Cruz",
+     "arquivoId": "be99eaf1-2a1c-46d8-b428-a7b6f752aa20",
+     "arquivo": "1989 - Conselho Comunitário de Segurança, estrutura e dinâmica do Grupo - CAP PM Gilberto Audi da Cruz.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.21",
+     "titulo": "1989 - Integração Polícia Militar e Comunidade - Cel PMCE  Carlos Alfredo da Rocha",
+     "arquivoId": "897ef6c4-2494-413f-913b-55f5ae05bf8d",
+     "arquivo": "1989 - Integração Polícia Militar e Comunidade - CEL PM  Carlos Alfredo da Rocha.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.22",
+     "titulo": "1989 - A Polícia Militar e a Comunidade no CPA M-5: Visão de um problema maior - Maj PM Fábio Solano Pereira",
+     "arquivoId": "d56f2fc2-766f-4e86-b4fe-211d92d584ec",
+     "arquivo": "1989 - A Polícia Militar e a Comunidade no CPA M-5, visão de um problema maior - MAJOR PM Fábio Solano Pereira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.26",
+     "titulo": "1992 - Polícia Comunitária tendo como BASE a Escola Pública - Dra. Vera Lúcia de Oliveira Alcoba, Maj PM João Carlos Pacheco Gomes e Maj PM Clodomir Ramos Marcondes",
+     "arquivoId": "6f80787f-6b02-4b2c-bbca-f0894edf669e",
+     "arquivo": "1992 - Polícia Comunitária tendo como BASE a Escola Pública - DRA Vera Lúcia de Oliveira Alcoba, MAJOR PM João Carlos Pacheco Gomes e MAJOR PM Clodomir Ramos Marcondes.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.27",
+     "titulo": "1993 - Polícia Comunitária tendo como BASE o Conselho de Segurança de Bairros - Cap PM Amilton Jair Modulo",
+     "arquivoId": "0bbd884d-abfc-4f3d-899a-dfc02e959dd8",
+     "arquivo": "1993 - Polícia Comunitária tendo como BASE o Conselho de Segurança de Bairros - CAP PM Amilton Jair Modulo.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.29",
+     "titulo": "1993 - Uma proposta de Instrução Policial Militar para Polícia Comunitária - Maj PM Ladislau Varadi",
+     "arquivoId": "e0979e26-34a5-483b-a933-a594f2b879e2",
+     "arquivo": "1993 - Uma proposta de Instrução Policial Militar para Polícia Comunitária - MAJOR PM Ladislau Varadi.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.30",
+     "titulo": "1993 - As Polícias Militares e o Policiamento Comunitário: Um estudo sobre projetos até então implantados - Maj PM Magdiel Lemos da Silva",
+     "arquivoId": "4ed65c05-007b-4d48-863a-88c4a6f0103b",
+     "arquivo": "1993 - As Polícias Militares e o Policiamento Comunitário, um estudo sobre projetos até então implantados - MAJOR PM Magdiel Lemos da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.31",
+     "titulo": "1994 - A Polícia Militar e sua ação educadora frente a violência - Cap PMMS Gustavo David Gonçalves",
+     "arquivoId": "50c845a5-2208-4f1f-b942-dc56d2ef683c",
+     "arquivo": "1994 - A Polícia Militar e sua ação educadora frente a violência - CAP PMMS Gustavo David Gonçalves.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.34",
+     "titulo": "1994 - A integração da Polícia Militar com a Comunidade: Uma experiência vivenciada no Bairro Satélite em Teresina - Piauí - Cap PMPI Pedro Augusto Vieira da Silva",
+     "arquivoId": "47ca3719-d5cf-421f-aaca-bedc46086911",
+     "arquivo": "1994 - A integração da Polícia Militar com a Comunidade, uma experiência vivenciada no Bairro Satélite em Teresina - PI - CAP PMPI Pedro Augusto Vieira da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.36",
+     "titulo": "1994 - Desenvolvimento da Polícia Comunitária. Formação e Instrução do Policial Comunitário - Manual de Procedimentos do Policial Comunitário - TCel PM Alexandre Canova Cardoso",
+     "arquivoId": "af90a499-dd90-45d7-b870-e87d2daa821e",
+     "arquivo": "1994 - Desenvolvimento da Polícia Comunitária. Formação e Instrução do Policial Comunitário - Manual de Procedimentos do Policial Comunitário - TEN CEL PM Alexandre Canova Ca.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.37",
+     "titulo": "1994 - Policiamento Rotativo Comunitário - TCel PMAM Mário Cauper Monteiro",
+     "arquivoId": "ff2dd4d9-d912-42ca-bf49-207c65e1fc84",
+     "arquivo": "1994 - Policamento Rotativo Comunitário - TEN CEL PMAM Mário Cauper Monteiro.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.38",
+     "titulo": "1994 - Integração Polícia Militar e Comunidade - TCel PM Marcio Campos Benincasa",
+     "arquivoId": "b668c8cc-9a5e-422a-8d12-c981618d6d96",
+     "arquivo": "1994 - Integração Polícia Militar e Comunidade - TEN CEL PM Marcio Campos Benincasa.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.39",
+     "titulo": "1994 - Padronização dos Conselhos Comunitários - Maj PM Itaici Ciriaco de Carvalho",
+     "arquivoId": "27e13ffd-f450-4022-ba5e-87f5c97d6d31",
+     "arquivo": "1994 - Padronização dos Conselhos Comunitários - MAJOR PM Itaici Ciriaco de Carvalho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.41",
+     "titulo": "1995 - Da utilização do Centro Comunitário de Segurança do Vale do Paraíba (CECOSE-VP) No Programa Integrado de Segurança Comunitária - Cap PM Vicente José dos Santos",
+     "arquivoId": "907a36d2-cc8e-440d-84c7-a180f0cc51aa",
+     "arquivo": "1995 - Da utilização do Centro Comunitário de Segurança do Vale do Paraíba (CECOSE-VP) No Programa Integrado de Segurança Comunitária - CAP PM Vicente José dos Santos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.42",
+     "titulo": "1995 - Polícia Comunitária: A Reengenharia no Policiamento - Cap PM Celso Carlos de Camargo",
+     "arquivoId": "43a29f8d-e2e4-4fc5-89a1-57fcb2176df7",
+     "arquivo": "1995 - Polícia Comunitária - A Reengenharia no Policiamento - CAP PM Celso Carlos de Camargo.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.43",
+     "titulo": "1995 - Polícia Comunitária - Cap PM Otávio Ferreira Pedroso Filho",
+     "arquivoId": "4c7adf8e-70ee-49b5-b926-7a2f9a1556cc",
+     "arquivo": "1995 - Polícia Comunitária - CAP PM Otávio Ferreira Pedroso Filho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.44",
+     "titulo": "1995 - O controle de Qualidade no Policiamento Comunitário na Cidade de Fortaleza - TCel PMCE João Batista Silva Beleza",
+     "arquivoId": "2e04203b-dc41-4070-81f3-a8aed4b00e58",
+     "arquivo": "1995 - O controle de Qualidade no Policiamento Comunitário na Cidade de Fortaleza - TEN CEL PMCE João Batista Silva Beleza.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.45",
+     "titulo": "1995 - A otimização da Polícia Comunitária através de Campanhas Educativas - TCel PM Sueli Teixeira da Silva",
+     "arquivoId": "d210e1e1-ab9d-437b-9670-d725b108dbdc",
+     "arquivo": "1995 - A otimização da Polícia Comunitária através de Campanhas Educativas - TEN CEL PM Sueli Teixeira da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.46",
+     "titulo": "1995 - Implementação da Polícia Comunitária, Projeto para uma Organização em mudança - TCel PM Carlos Adelmar Ferreira",
+     "arquivoId": "09ec22d3-ab9f-4d79-bbc7-acb75fa59335",
+     "arquivo": "1995 - Implementação da Polícia Comunitária, Projeto para uma Organização em mudança - TEN CEL PM Carlos Adelmar Ferreira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.48",
+     "titulo": "1996 - A Polícia Militar e a Comunidade - TCel PM Plaisant Castelo Branco",
+     "arquivoId": "503c1a04-242e-4971-9875-7f825fa428ae",
+     "arquivo": "1996 - A Polícia Militar e a Comunidade - TEN CEL PM Plaisant Castelo Branco.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.49",
+     "titulo": "1996 - Interação Operacional do Policiamento Ostensivo, face a filosofia de Polícia Comunitária - TCel PM Jovair Rodrigues da Silva",
+     "arquivoId": "a305dc3d-9765-4066-ae04-5c7eee54c58f",
+     "arquivo": "1996 - Interação Operacional do Policiamento Ostensivo, face a filosofia de Polícia Comunitária - TEN CEL PM Jovair Rodrigues da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.50",
+     "titulo": "1997 - Projeto Polícia Comunitária - Uma forma de orientar e disciplinar os fututos motoristas - Cap PM Antonio Sérgio Palazzi",
+     "arquivoId": "9c3b8478-4494-49cd-ae9d-d5814c5b8999",
+     "arquivo": "1997 - Projeto Polícia Comunitária - Uma forma de orientar e disciplinar os fututos motoristas - CAP PM Antonio Sérgio Palazzi.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.51",
+     "titulo": "1997 - A Polícia Comunitária como um dos fatores de fortalecimento das relações públicas - Cap PM Sérgio Antônio Navarro Ferreira",
+     "arquivoId": "48fda32d-037e-4abb-9da8-5eaa2ff686aa",
+     "arquivo": "1997 - A Polícia Comunitária como um dos fatores de fortalecimento das relações públicas - CAP PM Sérgio Antônio Navarro Ferreira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.53",
+     "titulo": "1998 - Quem frequenta minha casa, conhece minha família - Proposta de abertura dos portões dos quartéis, para comunidade onde atuam. Projeto Piloto: 3º BPMM - Cap PM Rivaldo Ribeiro dos Santos",
+     "arquivoId": "2cb1b9c0-f721-4a43-899f-e9451048c216",
+     "arquivo": "1998 - QUEM FREQUENTA MINHA CASA CONHECE MINHA FAMÍLIA - PROPOSTA DE ABERTURA DOS PORTÕES DOS QUARTÉIS BPMM, PARA COMUNIDADE ONTE ATUAM. PILOTO DO 3º BPMM - CAP PM RIVALDO RI.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.54",
+     "titulo": "1998 - Filosofia e estratégia da Organização Policial na implementação do Policiamento Comunitário na Cidade de Presidente Prudente - SP - Cap PM Francisco Lozzi da Costa",
+     "arquivoId": "4f433ee2-0a69-4415-861f-fa571f67e3f7",
+     "arquivo": "1998 - Filosofia e estratégia da Organização Policial na implementação do Policiamento Comunitário na Cidade de Presidente Prudente - SP - CAP PM Francisco Lozzi da Costa.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.55",
+     "titulo": "1998 - Desafios do Policiamento Comunitário na Cidade de Campinas - Cap PM José Aparecido de Oliveira",
+     "arquivoId": "6f4d5403-0420-468d-8110-d9fc237436ac",
+     "arquivo": "1998 - Desafios do Policiamento Comunitário na Cidade de Campinas - CAP PM José Aparecido de Oliveira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.58",
+     "titulo": "1998 - Aplicação e Gerenciamento do Policiamento Comunitário em Araçatuba - Cap PM Álvaro José Stuchi",
+     "arquivoId": "5ba99c20-1296-4347-800f-bd684ee49170",
+     "arquivo": "1998 - Aplicação e Gerenciamento do Policiamento Comunitário em Araçatuba - CAP PM Álvaro José Stuchi.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.59",
+     "titulo": "1998 - Solidariedade e Cortesia: Fatores essenciais para integração Policial Militar e Comunidade - Cap PM Rogério Ramos Marcelino",
+     "arquivoId": "5411e794-8fa3-4fe9-bb33-db94086db152",
+     "arquivo": "1998 - Solidariedade e Cortesia. Fatores essenciais para integração Policial Militar e Comunidade - CAP PM Rogério Ramos Marcelino.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.60",
+     "titulo": "1998 - Comunicação Comunitária visando a melhoria da imagem da Polícia Militar - Cap PM Emílio Nicanor Galan Francês",
+     "arquivoId": "03a89b65-e66b-4ba7-8973-c89c2f815ce4",
+     "arquivo": "1998 - Comunicação Comunitária visando a melhoria da imagem da Polícia Militar - CAP PM Emílio Nicanor Galan Francês.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.62",
+     "titulo": "1998 - A utilização de Bicicleta no Policiamento Comunitário - Cap PM Alaor José Gasparoto",
+     "arquivoId": "339ccb7d-4c44-46b7-b389-6d6dcce0a85c",
+     "arquivo": "1998 - A utilização de Bicicleta no Policiamento Comunitário - CAP PM Alaor José Gasparoto.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.63",
+     "titulo": "1998 - Policiamento Comunitário, perpectiva de diminuição do aparato no ponto atendimento de ocorrências - Cap PM Antonio Dirceu dos Santos",
+     "arquivoId": "f8fad1d3-4b7a-4f80-86ad-ace5456766b1",
+     "arquivo": "1998 - Policiamento Comunitário, perpectiva de diminuição do aparato no ponto atendimento de ocorrências - CAP PM Antonio Dirceu dos Santos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.65",
+     "titulo": "1998 - A atuação do Policiamento Comunitário da Polícia Militar na Rede de Ensino Público Estadual, na prevenção quanto ao uso de Drogas - Cap PM Valdemir José Pavesi",
+     "arquivoId": "e353d649-fcbd-4c1f-b633-632e49d5289a",
+     "arquivo": "1998 - A atuação do Policiamento Comunitário da Polícia Militar na Rede de Ensino Público Estadual, na prevenção quanto ao uso de Drogas - CAP PM Valdemir José Pavesi.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.66",
+     "titulo": "1998 - Estratégia para vencer desafios, implementação e gerenciamento do Policiamento Comunitário da Polícia Militar do Estado de São Paulo na Cidade de Votuporanga-SP, em face do efetivo diminuto - Cap PM Nelso Cardoso Torres",
+     "arquivoId": "1aedbffc-b4c3-4bdc-aee3-150154918226",
+     "arquivo": "1998 - Estratégia para vencer desafios, implementação e gerenciamento do Policiamento Comunitário da Polícia Militar do Estado de São Paulo na Cidade de Votuporanga-SP, em fa.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.67",
+     "titulo": "1998 - Atuação do Policiamento Comunitário junto as Entidades Assistenciais de um Município como asilo, albergue noturno, associação mirim, creche e APAE - Cap PM José Humberto Nardo",
+     "arquivoId": "4648381a-4b93-4ce4-8617-50f3d7c6d46c",
+     "arquivo": "1998 - Atuação do Policiamento Comunitário junto as Entidades Assistenciais de um Município como asilo, albergue noturno, associação mirim, creche e APAE - CAP PM José Humberto Nardo.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.68",
+     "titulo": "1998 - Desenvolvimento do Policiamento Comunitário no Estado de São Paulo: Análises e perspectivas para o futuro - Maj PM Miguel Libório Cavalcante Neto",
+     "arquivoId": "347514eb-119a-478f-b94e-f2a15de085c6",
+     "arquivo": "1998 - Desenvvolvimento do Policiamento Comunitário no Estado de São Paulo. Análises e perspectivas para o futuro - MAJOR PM Miguel Libório Cavalcante Neto.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.69",
+     "titulo": "1998 - Instalação de Base Comunitária de Segurança junto às unidades Escolares, uma proposta - TCel PM Laudinéa Passan de Oliveira",
+     "arquivoId": "a3f0e3a6-3fd0-4286-ae55-2d78075b2e58",
+     "arquivo": "1998 - Instalação de Base Comunitária de Segurança junto às unidades Escolares, uma proposta - TEN CEL PM Laudinea Passan de Oliveira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.70",
+     "titulo": "1999 - Programa de Ação de educação preventiva na Comunidade: Normas gerais de ação na Polícia Militar - Cap PM Antônio Ferraz dos Santos",
+     "arquivoId": "e856185d-5dbf-417a-8064-761764366778",
+     "arquivo": "1999 - Programa de Ação de educação preventiva na Comunidade. Normas gerais de ação na Polícia Militar - CAP PM Antônio Ferraz dos Santos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.71",
+     "titulo": "1999 - Polícia Cidadã - Cap PM Clarice Mendes Gomes",
+     "arquivoId": "7cddb1cf-2759-4be3-beba-e52d091526e0",
+     "arquivo": "1999 - Polícia Cidadã - CAP PM Clarice Mendes Gomes.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.73",
+     "titulo": "1999 - A segurança de crianças: Uma proposta para ação preventiva do Policiamento Comunitário - Cap PM Roberto Oliveira Campos",
+     "arquivoId": "c8487998-29fd-4051-beb1-6c3ffec8e7b1",
+     "arquivo": "1999 - A segurança de crianças, uma proposta para ação preventiva do Policiamento Comunitário - CAP PM Roberto Oliveira Campos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.75",
+     "titulo": "1999 - Polícia de Bairro: Trabalho descentralizado por intermédio das Bases Comunitárias de Segurança - Cap PM João Batista Camargo Júnior",
+     "arquivoId": "e1fe8885-025c-4345-b3ef-373dc78384ec",
+     "arquivo": "1999 - Polícia de Bairro. Trabalho descentralizado por intermédio das Bases Comunitárias de Segurança - CAP PM João Batista Camargo Júnior.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.76",
+     "titulo": "1999 - A importância da educação formal como BASE para o aperfeiçoamento do Policial Comunitário - Cap PM Manoel Messias Mello",
+     "arquivoId": "14f8e3d2-373c-4e62-8e52-061696f9bd7f",
+     "arquivo": "1999 - A importância da educação formal como BASE para o aperfeiçoamento do Policial Comunitário - CAP PM Manoel Messias Mello.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.77",
+     "titulo": "1999 - A importância de um representante da Polícia Militar à altura nas Reuniões Comunitárias em cada Município - Cap PM Nivaldo Alencar Dantas",
+     "arquivoId": "ebf140aa-6376-4e18-8725-b4c124ac2fc0",
+     "arquivo": "1999 - A importância de um representante da Polícia Militar a altura nas Reuniões Comunitárias em cada Município - CAP PM Nivaldo Alencar Dantas.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.78",
+     "titulo": "1999 - A contribuição da Polícia Comunitária contra a violência nas Escolas - Cap PM Rose Meire Galvão da Rocha",
+     "arquivoId": "668b8508-61eb-46b8-b72c-ae95b000a7c5",
+     "arquivo": "1999 - A contribuição da Polícia Comunitária contra a violência nas Escolas - CAP PM Rose Meire Galvão da Rocha.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.79",
+     "titulo": "1999 - Bases Comunitárias de Segurança. fixas e móveis, como fatores de inibição da criminalidade - TCel PM Reinaldo Vieira",
+     "arquivoId": "79d7b04a-9546-4371-8a13-c5f5f15a231f",
+     "arquivo": "1999 - Bases Comunitárias de Segurança. fixas e móveis, como fatores de inibição da criminalidade - TEN CEL PM Reinaldo Vieira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.80",
+     "titulo": "2000 - Ações de Polícia Comunitária no trabalho sócio educativo da criança e do adolescente - TCel PM Amilton Jair Modulo",
+     "arquivoId": "5a8ec144-88df-4845-af0d-f855cdf06984",
+     "arquivo": "2000 - Ações de Polícia Comunitária no trabalho sócio educativo da criança e do adolescente - TEN CEL PM Amilton Jair Modulo.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.82",
+     "titulo": "2000 - Organização e emprego da Comunidade num sistema Comunitário de Segurança: Relação custo x benefício - Cap PM Enéas Alberto de Carvalho",
+     "arquivoId": "1ec221e6-e968-49cd-8734-cb12abf5a2d0",
+     "arquivo": "2000 - Organização e emprego da Comunidade num sistema Comunitário de Segurança, relação custo x benefício - CAP PM Enéas Alberto de Carvalho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.86",
+     "titulo": "2001 - Guardas Municipais: Uma visão de parceria Comunitária junto a Polícia Militar - Cap PM Miriam dos Santos Tarantino",
+     "arquivoId": "73f852e6-db06-4f75-8ebe-34ddeed22061",
+     "arquivo": "2001 - Guardas Municipais, uma visão de parceria Comunitária junto a Polícia Militar - CAP PM Miriam dos Santos Tarantino.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.87",
+     "titulo": "2001 - Motivação no Policiamento Comunitário: Um Estudo -Cap PM Wanderley Pinto Rodrigues",
+     "arquivoId": "abd393ec-f5ce-4dce-948a-1ac416ddc46f",
+     "arquivo": "2001 - Motivação no Policiamento Comunitário, um Estudo - CAP PM Wnaderley Pinto Rodrigues.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.88",
+     "titulo": "2002 - A importância da participação da Comunidade na implementação do Policiamento Comunitário. Proposta de mobilização e voluntariado no âmbito da Cia Operacional - Cap PM Alexandre Marcondes Terra",
+     "arquivoId": "98a721ab-dd94-4991-9e39-c4399c2b4757",
+     "arquivo": "2002 - A importância da participação da Comunidade na implementação do Policiamento Comunitário. Proposta de mobilização e voluntariado no âmbito da Cia Operacional - CAP PM.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.89",
+     "titulo": "2002 - Policiamento Comunitário, análise crítica do modelo desenvolvido na Cidade de Bauru. Um Estudo de Caso - Cap PM José Aparecido Godoy Siqueira",
+     "arquivoId": "9ffa50cf-3eb8-4725-8dc3-769f1aa8a920",
+     "arquivo": "2002 - Policiamento Comunitário, análise crítica do modelo desenvolvido na Cidade de Bauru. Um Estudo de Caso - CAP PM José Aparecido Godoy Siqueira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.90",
+     "titulo": "2002 - O papel das políticas públicas como mecanismo de prevenção primária. Sistema de monitoramento por câmeras em Escolas Públicas - Cap PM Benedito Pereira",
+     "arquivoId": "d0d4054d-5d76-4f7e-a9fc-e95bd6d421da",
+     "arquivo": "2002 - O papel das políticas públicas como mecanismo de prevenção primária. Sistema de monitoramento por câmeras em Escolas Públicas - CAP PM Benedito Pereira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.91",
+     "titulo": "2002 - A educação para o trânsito como fato de integração comunitária na Cidade de Bauru. Um Estudo de Caso - Cap PM Reginaldo de Souza Braga",
+     "arquivoId": "29d23b0d-5c8d-40af-9e17-64e98b1b18c0",
+     "arquivo": "2002 - A educação para o trânsito como fato de integração comunitária na Cidade de Bauru. Um Estudo de Caso - CAP PM Reginaldo de Souza Braga.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.92",
+     "titulo": "2003 - Polícia Comunitária: Da prática à teoria - TCel PM Ailton de Araújo Brandão",
+     "arquivoId": "69430156-ce54-40d9-8a47-d21535fea6aa",
+     "arquivo": "2003 - Polícia Comunitária, da prática à teoria - TEN CEL PM Ailton de Araújo Brandão.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.94",
+     "titulo": "2004 - Integração de Núcleos de Defesa Civil em Escolas com as atividades de Polícia Comunitária - Maj PM Luiz Dias Filho",
+     "arquivoId": "3ddb4466-d667-455c-a67e-9e39846656dd",
+     "arquivo": "2004 - Integração de Núcleos de Defesa Civil em Escolas com as atividades de Polícia Comunitária - MAJOR PM Luiz Dias Filho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.95",
+     "titulo": "2004 - Postos de Policiamento Comunitário em Comunidades carente: Dificuldades quanto à gestão - TCel PM RJ Marcos Oscar Ferreira Ribeiro",
+     "arquivoId": "75aca2f7-a667-4592-80df-c0cff339a193",
+     "arquivo": "2004 - Postos de Policiamento Comunitário em Comunidades carente, dificuldades quanto à gestão - TEN CEL PM RJ Marcos Oscar Ferreira Ribeiro.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.96",
+     "titulo": "2004 - Roteiro de implantação de VIDEOMONITORAMENTO em Estâncias Turísticas - Cap PM Enilson de Andrade Melo",
+     "arquivoId": "9dfbb9ec-6101-44c1-b70b-a9d7f8e01867",
+     "arquivo": "2004 - Roteiro de implantação de VIDEOMONITORAMENTO em Estâncias Turísticas - CAP PM Enilson de Andrade Melo.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.98",
+     "titulo": "2005 - Comissão Estadual e Subcomissão Regional de Polícia Comunitária: Reestruturação e estratégia de funcionamento - Maj PM Vicente Antonio Mariano Ferraz",
+     "arquivoId": "c14b5f89-ff54-4911-be05-351a8cee6f45",
+     "arquivo": "2005 - Comissão Estadual e Subcomissão Regional de Polícia Comunitária. Reestruturação e estratégia de funcionamento - MAJOR PM Vicente Antonio Mariano Ferraz.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.99",
+     "titulo": "2006 - Polícia Comunitária nos pequenos munícipios. Estratégia para consolidação e fortalecimento da Doutrina no Estado - TCel PM jean Charles Oliveira Diniz Serbeto",
+     "arquivoId": "e6e0626a-8211-4a8d-8655-2594157ef8fa",
+     "arquivo": "2006 - Polícia Comunitária nos pequenos munícipios. Estratégia para consolidação e fortalecimento da Doutrina no Estado - TEN CEL PM jean Charles Oliveira Diniz Serbeto.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.101",
+     "titulo": "2021- Cartilha de Fiscalização de Poluição Sonora - Prefeitura Municipal de Itaquaquecetuba",
+     "arquivoId": "bbc98982-a9e0-48ba-91af-584250a9451d",
+     "arquivo": "Cartilha Poluição Sonora 2021 (1).pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.102",
+     "titulo": "2006 - Ações de Solidariedade do FUSSESP e a importância para a Polícia Comunitária - Cap PM Edvaldo Sertório do Amaral",
+     "arquivoId": "b98126ba-036c-4df5-b81f-4b0194662e72",
+     "arquivo": "2006 - Ações de Solidariedade do FUSSESP e a importância para a Polícia Comunitária - CAP PM Edvaldo Sertório do Amaral.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.103",
+     "titulo": "2006 - Interfaces possíveis entre o Programa de Policiamento Comunitário e Orgãos Públicos e Privados. Estudo de caso da região do Jardim Ranieri - Cap PM Gilberto Tardochi da Silva",
+     "arquivoId": "aff1e376-ea69-499f-bd3a-1f0e78c7250b",
+     "arquivo": "2006 - Interfaces possíveis entre o Programa de Policiamento Comunitário e Orgãos Públicos e Privados. Estudo de caso da região do Jardim Ranieri - CAP PM Gilberto Tardochi da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.104",
+     "titulo": "2006 - A Polícia Militar e as posturas Municipais - Cap PM Luis Henrique Usai",
+     "arquivoId": "30794063-3097-44fd-a025-f25e86d3523b",
+     "arquivo": "2006 - A Polícia Militar e as posturas Municipais - CAP PM Luis Henrique Usai.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.106",
+     "titulo": "2006 - Responsabilidade das Autoridades Municipais na Segurança Pública - Cap PM Valter Padulla",
+     "arquivoId": "1abefbe5-e589-43b2-a789-1f4fdc36e3cc",
+     "arquivo": "2006 - Responsabilidade das Autoridades Municipais na Segurança Pública - CAP PM Valter Padulla.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.107",
+     "titulo": "2007 - Mobilização de Comunidades: Os Núcleos de Ação Local - NAL - Como instrumentos de Gestão do Programa de Policiamento Comunitário - TCel PM Luiz Eduardo Pesce de Arruda",
+     "arquivoId": "c9780aa4-99fd-445b-9469-ff8a7b1ef9f4",
+     "arquivo": "2007 - Mobilização de Comunidades. Os Núcleos de Ação Local - NAL - Como instrumentos de Gestão do Programa de Policiamento Comunitário - TEN CEL PM Luiz Eduardo Pesce de Arruda.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.108",
+     "titulo": "2007 - A integração da Polícia Militar com a Comunidade Universitária: Propostas para a melhoria de gestão em Segurança Pública e Qualidade de Vida - TCel PM Marco Antonio Alves Miguel",
+     "arquivoId": "020eb5b3-70cf-499b-83f8-5441112103c3",
+     "arquivo": "2007 - A integração da Polícia Militar com a Comunidade Universitária. Propostas para a melhoria de gestão em Segurança Pública e Qualidade de Vida - TEN CEL PM Marco Antonio.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.109",
+     "titulo": "2007 - A participação comunitária na implementação do Policiamento Rural - TCel PM Sérgio Luiz dos Santos",
+     "arquivoId": "15093a5a-8a28-4b75-b1a2-4a2bfa59098b",
+     "arquivo": "2007 - A participação comunitária na implementação do Policiamento Rural - TEN CEL PM Sérgio Luiz dos Santos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.110",
+     "titulo": "2007 - Polícia Comunitária: Implantação de projeto social como medida de prevenção criminal - Cap PM Acácio Geraldo Wendling César",
+     "arquivoId": "996a54fa-75f9-456e-8f4d-033fb9cbac9e",
+     "arquivo": "2007 - Polícia Comunitária, implantação de projeto social como medida de prevencação criminal - CAP PM Acácio Geraldo Wendling César.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.112",
+     "titulo": "2007 - Técnica do  diálogo diário de segurança como facilitador do trabalho Policial Militar - Cap PM Yoshiyasu José Alberto Tamashiro",
+     "arquivoId": "441bd3dd-7565-41f5-aabb-83084bb1b61b",
+     "arquivo": "2007 - Técnica do  diálogo diário de segurança como facilitador do trabalho Policial Militar - CAP PM Yoshiyasu José Alberto Tamashiro.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.113",
+     "titulo": "2008 - Instruções para atualização do CMT de Cia junto ao CONSEG - Cap PM Edgar Milani dos Santos",
+     "arquivoId": "a3b0419b-2ca4-4acf-805f-60c84f7ffcf3",
+     "arquivo": "2008 - Instruções para atualização do CMT de Cia junto ao CONSEG - CAP PM Edgar Milani dos Santos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.114",
+     "titulo": "2008 - Comandantes de Companhias e CONSEG: Proposta de Padronização de procedimentos - Cap PM Edson Lemos da Silva",
+     "arquivoId": "707b6b79-d787-4e8b-8402-8079351e9cd6",
+     "arquivo": "2008 - Comandantes de Companhias e CONSEG. Proposta de Padronização de procedimentos - CAP PM Edson Lemos da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.115",
+     "titulo": "2008 - Medidas primárias de segurança: Proposta de padronização de conteúdo - Cap PM José Antonio Sanches Milat",
+     "arquivoId": "b398c28b-aeff-4a89-bdf3-b9cadfa98fdb",
+     "arquivo": "2008 - Medidas primárias de segurança - Proposta de padronização de conteúdo - CAP PM José Antonio Sanches Milat.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.116",
+     "titulo": "2008 - Videomonitorização de locais públicos e Policiamento Ostensivo - Aspectos jurídicos e operacionais - Cap PM Pedro Luiz Bueno de Alvarenga",
+     "arquivoId": "1ae442bd-f880-4aad-a349-b3a80d950473",
+     "arquivo": "2008 - Videomonitorização de locais públicos e Policiamento Ostensivo - Aspectos jurídicos e operacionais - CAP PM Pedro Luiz Bueno de Alvarenga.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.117",
+     "titulo": "2008 - Policiamento em área turísticas e de elevada desigualdade social: Indicadores e aperfeiçoamento da prevenção criminal - Cap PM Rivaldo Pereira",
+     "arquivoId": "99a05061-25e1-4398-8f24-b35e9c023c99",
+     "arquivo": "2008 - Policiamento em área turísticas e de elevada desigualdade social - Indicadores e aperfeiçoamento da prevenção criminal - CAP PM Rivaldo Pereira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.118",
+     "titulo": "2008 - Responsabilidade social - O protagonismo social do Policial Militar - Cap PM Samuel Rossi da Silva",
+     "arquivoId": "71252f46-8da7-488a-b48c-e0ea1c71c138",
+     "arquivo": "2008 - Responsabilidade social - O protagonismo social do Policial Militar - CAP PM Samuel Rossi da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.119",
+     "titulo": "2008 - Policiamento comunitário com emprego de supedâneos em áreas comerciais e grandes aglomerações - Indicadores e proposta de Procedimento -Padrão - Cap PM Wanderley  Barboisa Filho",
+     "arquivoId": "ee5e1933-fed4-46a6-a69d-be1061063497",
+     "arquivo": "2008 - Policiamento comunitário com emprego de supedâneos em áreas comerciais e grandes aglomerações - Indicadores e proposta de Procedimento -Padrão - CAP PM Wanderley  Barb.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.120",
+     "titulo": "2008 - Relacionamento: Sua fundamental importância como vetor de integração Polícia - Comunidade - TCel PM Antonio Carlos Artêncio",
+     "arquivoId": "f08c7eed-2e35-4f1b-b786-6226478e23d6",
+     "arquivo": "2008 - Relacionamento- Sua fundamental importância como vetor de integração Polícia - Comunidade -.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.121",
+     "titulo": "2008 - Policiamento Comunitário como porta-voz de notícias positivas da Polícia Militar nos condomínios horizontais - Maj PM Dorival Alves Filho",
+     "arquivoId": "35509b06-ad46-4347-9436-c956cf36f4e1",
+     "arquivo": "2008 - Policiamento Comunitário como porta-voz de notícias positivas da Polícia Militar nos condomínios horizontais - MAJOR PM Dorival Alves Filho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.122",
+     "titulo": "2008 - Segurança Pública: Estratégias para aumentar a sensação de Segurança da Comunidade - Maj PM Salvador Loureiro Júnior",
+     "arquivoId": "1900d902-ca89-4308-aa42-8bb6476c8e49",
+     "arquivo": "2008 - Segurança Pública - Estratégias para aumentar a sensação de Segurança da Comunidade - MAJOR PM Salvador Loureiro Júnior.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.123",
+     "titulo": "2008 - O binômio, Estado e Município, desenvolvendo ações estratégicas na contenção da violência urbana - Maj PM Eduardo Agrella Carvalho",
+     "arquivoId": "367f0b8f-2307-4fdf-aca2-37354d02aedd",
+     "arquivo": "2008 - O binômio, Estado e Município, desenvolvendo ações estratégicas na contenção da violência urbana - MAJOR PM Eduardo Agrella Carvalho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.124",
+     "titulo": "2008 - Proposta de operacionalização dos sitemas de VIDEOMONITORIZAÇÃO urbana como instrumento da PMESP para o controle e prevenção da criminalidade - TCel PM Orlando Taveiros Costa Júnior",
+     "arquivoId": "d00bca4b-149f-4a87-ba51-b2b82701c7ff",
+     "arquivo": "2008 - Proposta de operacionalização dos sitemas de VIDEOMONITORIZAÇÃO urbana como instrumento da PMESP para o controle e prevenção da criminalidade - TEN CEL PM Orlando Tave.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.125",
+     "titulo": "2009 - Estratégias de comunicação social aplicada ao Policiamento Comunitário na prevenção primária - Cap PM Carlos Alberto Hipólito Ferreira",
+     "arquivoId": "67f23cff-9f88-4f19-87f9-75b40f1181e1",
+     "arquivo": "2009 - Estratégias de comunicação social aplicada ao Policiamento Comunitário na prevenção primária - CAP PM Carlos Alberto Hipólito Ferreira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.126",
+     "titulo": "2009 - O envolvimento de outros órgãos visando a prevenção ao Roubo e Furto de veículos - Cap PM Cícero Bernardo da Silva",
+     "arquivoId": "7c23ca47-d4a0-446b-b68e-f1e72731f741",
+     "arquivo": "2009 - O envolvimento de outros órgãos visando a prevenção ao Roubo e Furto de veículos - CAP PM Cícero Bernardo da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.127",
+     "titulo": "2009 - Instruções para atuação do Comandante de Campanhia junto ao Conselho de Segurança - Cap PM Edgar Milani dos Santos",
+     "arquivoId": "02c86b66-7f5f-4b8b-81c8-cfc5551e55c8",
+     "arquivo": "2009 - Instruções para atuação do Comandante de Campanhia junto ao Conselho de Segurança - CAP PM Edgar Milani dos Santos.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.128",
+     "titulo": "2009 - Policiamento Comunitário e Comunidades Migrantes - Cap PM José Marcos Holsapfel",
+     "arquivoId": "a49fe95c-9b5f-40fb-8235-a2fbf53c2888",
+     "arquivo": "2009 - Policiamento Comunitário e Comunidades migrantes - CAP PM José Marocs Holsapfel.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.129",
+     "titulo": "2009 - Patrulha Área Rural - Prevenção por meio da Integração - Cap PM Marcelo Sanches",
+     "arquivoId": "c4582be5-60de-4b06-8bdc-e39b65d2c28b",
+     "arquivo": "2009 - Patrulha Área Rural - Prevenção por meio da integração - CAP PM Marcelo Sanches.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.130",
+     "titulo": "2009 - Projeto Comunitário Paz na Família - Resultados, efeitos e justificação da aplicação na 2ª Companhia do 49º BPMM - Cap PM Marcelo Jorge Franciscon",
+     "arquivoId": "68f3e00c-7d06-4a3b-93de-4ac32bdb7233",
+     "arquivo": "2009 - Projeto Comunitário Paz na Família - Resultados, efeitos e justificação da aplicação na 2ª Companhia do 49º BPMM.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.131",
+     "titulo": "2009 - Polícia Comunitária - Os novos desafios para transformar a Comunidade em aliada do Estado - Cap PM Márcia Ezivânia Lopes Maciel",
+     "arquivoId": "e432fe32-2786-4ba4-a5ab-13a973dde78d",
+     "arquivo": "2009 - Polícia Comunitária - Os novos desafios para transformar a Comunidade em aliada do Estado.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.132",
+     "titulo": "2009 - A Polícia Comunitária e as ações relacionadas a prevenção primária da criminalidade com trabalhos integrados aos setores públicos em áreas degradadas - Cap PM Paulo Afonso Caetano",
+     "arquivoId": "80ab76de-90ef-4e69-a3fe-bb56438dba39",
+     "arquivo": "2009 - A Polícia Comunitária e as ações relacionadas a prevenção primária da criminalidade com trabalhos integrados aos setores públicos em áreas degradadas - CAP PM Paulo Af.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.133",
+     "titulo": "2009 - A experiência de Integração da PMESP com órgãos Municipais realizada no Jardim Elisa Maria, em 2007 e 2008, durante a Virada Social. Estudo de Caso - Cap PM Adriano Alves Pazelli",
+     "arquivoId": "59281f34-11a1-4bb6-8189-05ca3bfaf1b9",
+     "arquivo": "2009 - A experiência de Integração da PMESP com órgãos Municipais realizada no Jardim Elisa Maria, em 2007 e 2008, durante a Virada Social. Estudo de Caso - CAP PM Adriano Al.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.134",
+     "titulo": "2009 - A Liderança Comunitária e os elos com a Segurança Pública: Um Estudo de caso em Paraisópolis - Cap PM Ednaldo Soares Alexandre",
+     "arquivoId": "021dd721-423b-44a3-bdbc-34f6c3c6427d",
+     "arquivo": "2009 - A Liderança Comunitária e os elos com a Segurança Pública - Um Estudo de caso em Paraisópolis - CAP PM Ednaldo Soares Alexandre.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.135",
+     "titulo": "2009 - Diagnóstico dos impactos na Segurança Pública oriundos do desenvolvimento Sócioeconômico na Cidade de Santos - Cap PM Edson Suezawa",
+     "arquivoId": "6d07f5e7-5e0d-409c-8e01-31771063e297",
+     "arquivo": "2009 - Diagnóstico dos impactos na Segurança Pública oriundos do desenvolvimento Sócioeconômico na Cidade de Santos - CAP PM Edson Suezawa.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.136",
+     "titulo": "2009 - Criação de Comissão de Polícia Comunitária nas Bases Comunitárias de Segurança como forma de fortalecer os Projetos e Programas desenvolvidos junto à Comunidade - Cap PM Eduardo Luiz Nunes Pinheiro",
+     "arquivoId": "6174aee1-3892-4ec7-ba28-a9fee1aa4645",
+     "arquivo": "2009 - Criação de Comissão de Polícia Comunitária nas Bases Comunitárias de Segurança como forma de fortalecer os Projetos e Programas desenvolvidos junto à Comunidade - CAP.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.137",
+     "titulo": "2009 - Estudo sobre o efetivo para as atividades das Bases Comunitárias de Segurança da Polícia Militar do Estado de São Paulo no âmbito do Comando e Policiamento da Capital - Cap PM Laércio Fernandes Júnior",
+     "arquivoId": "ba82142d-dcea-4c3f-b0e2-be66cb5e6993",
+     "arquivo": "2009 - Estudo sobre o efetivo para as atividades das Bases Comunitárias de Segurança da Polícia Militar do Estado de São Paulo no âmbito do Comando e Policiamento da Capital.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.138",
+     "titulo": "2009 - Políticas Públicas de prevenção primária adotadas pelo Município como formade prevenir incidência delitiva - Cap PM Ricardo Campos de Camargo",
+     "arquivoId": "e4d523ca-f648-41d0-a8ea-d4d0d44562d3",
+     "arquivo": "2009 - Políticas Públicas de prevenção primária adotadas pelo Município como formade prevenir incidência delitiva - CAP PM Ricardo Campos de Camargo.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.139",
+     "titulo": "2009 - Aplicação do VIDEOMONITORAMENTO, através do reconhecimento ótico de caracteres (OCR), na prevenção dos furtos e roubos de veículos na Cidade de  Mogi Guaçu - Cap PM Antonio Carlos Sordi",
+     "arquivoId": "99dacce1-009b-4fb4-9112-1ab748d4578c",
+     "arquivo": "2009 - Aplicação do VIDEOMONITORAMENTO, atraés do reconhecimento ótico de caracteres (OCR), na prevenção dos furtos e roubos de veículos na Cidade de  Mogi Guaçu - CAP PM Ant.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.140",
+     "titulo": "2009 - Intercâmbio entre a Polícia Militar e Departamentos de Segurança de Instituições Públicas e Privadas para a coleta de informações especializadas e aplicação no Planejamento do Policiamento Ostensivo da Avenida Paulista - Estudo de caso da Associação Paulista Segura. Parceria Pública Privada incrementando a excelência da Segurança Pública - Cap PM Carlos José de Brito",
+     "arquivoId": "7da921bc-1133-44b6-b771-e1d0d11b2ac7",
+     "arquivo": "2009 - Intercâmbio entre a Polícia Militar e Departamentos de Segurança de Instituições Públicas e Privadas para a coleta de informações especializadas e aplicação.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.141",
+     "titulo": "2009 - Polícia Comunitária em Guarulhos - Cap PM Eduardo Zottino de Andrade",
+     "arquivoId": "c6e493b9-b5dd-4136-8417-e6f0e496fcee",
+     "arquivo": "2009 - Polícia Comunitária em Guarulhos - CAP PM Eduardo Zottino de Andrade.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.142",
+     "titulo": "2009 - Polícia Comunitária Rural: Policiais Militares e Comunidades Rurais, buscando soluções para impedir os crimes e propostas de ações aplicáveis na área de abrangência da 3ª Companhia do 4º BPAMB- Cap PM Eliel Pedro Thomazi Romero",
+     "arquivoId": "8bb04d2e-e95b-4d8f-b6f5-bc34ef2dc036",
+     "arquivo": "2009 - Polícia Comunitária Rural - Policiais Militares e Comunidades Rurais, buscando soluções para impedir os crimes e propostas de ações aplicáveis - CAP PM Eliel Pedro Tho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.143",
+     "titulo": "2009 - O Policiamento Comunitário como ferramenta de mobilização Comunitária. Mobilização Comunitária na área de Segurança Pública envolvendo a Comunidade Escolar - Cap PM Fabiana Bergamin",
+     "arquivoId": "9cf078de-701f-4f77-b045-57397e4de8f5",
+     "arquivo": "2009 - O Policiamento Comunitário como ferramenta de mobilização Comunitária. Mobilização Comunitária na área de Segurança Pública envolvendo a Comunidade Escolar - CAP PM Fa.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.144",
+     "titulo": "2009 - Direitos Humanos: O exercício da cidadania e a função social do Policial Militar - Cap PM Eurico Alves Costa Júnior",
+     "arquivoId": "3d7517f2-ab5d-4674-a57d-32364aa215bb",
+     "arquivo": "2009 - Direitos Humanos - O exercício da cidadania e a função social do Policial Militar - CAP PM Eurico Alves Costa Júnior.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.145",
+     "titulo": "2009 - Responsabilidade Social da Educação Superior: Um Estudo sobre o Bacharelado em Ciências Policiais de Segurança e Ordem Pública e sua interface com os princípios e valores da Polícia Comunitária - Cap PM Ironcide Gomes Filho",
+     "arquivoId": "b0d4a066-d76b-4860-b013-08b01a44b266",
+     "arquivo": "2009 - Responsabilidade Social da Educação Superior - Um Estudo sobre o Bacharelado em Ciências Policiais de Segurança e Ordem Pública e sua interface com os princípios e val.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.146",
+     "titulo": "2009 - VIDEOMONITORIZAÇÃO Pública na Cidade de Aparecida Santuário Nacional - Cap PM Joaquim Urias Fonseca",
+     "arquivoId": "8ea66386-50da-4320-a6a8-d4a0964d86be",
+     "arquivo": "2009 - VIDEOMONITORIZAÇÃO Pública na Cidade de Aparecida Santuário Nacional - CAP PM Joaquim Urias Fonseca.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.147",
+     "titulo": "2009 - Capacitação Profissional - Caminho para a Cidadania e a Qualidade na prestação de serviços Policiais à Sociedade - Cap PM Silvana Helena Sozza",
+     "arquivoId": "aab6fd83-b4c4-4815-a72d-c92786f28bcc",
+     "arquivo": "2009 - Capacitação Profissional - Caminho para a Cidadania e a Qualidade na prestação de serviços Policiais à Sociedade - CAP PM Silvana Helena Sozza.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.148",
+     "titulo": "2009 - Prevenção Primária como instrumento de integração dos Operadores da Polícia Comunitária na Área da 1ª Companhia do 41º BPM/M do Município de Santo André - Cap PM Temístocles Telmo Ferreira",
+     "arquivoId": "8cb9ca1d-3686-4f17-a663-0c4867ef2f9b",
+     "arquivo": "2009 - Prevenção Primária como instrumento de integração dos Operadores da Polícia Comunitária na Área da 1ª Companhia do 41º BPMM do Município de Santo André - CAP PM Temíst.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.149",
+     "titulo": "2009 - Operações de Polícia em ambientes degradados - Metodologia para a utilização da interação Comunitária, por meio de Órgãos Governamentais e Não Governamentais - TCel PM Arnaldo Rodrigues da Silva",
+     "arquivoId": "e1aeb2e0-3b20-46fb-8700-c422f8e4bcd8",
+     "arquivo": "2009 - Operações de Polícia em ambientes degradados - Metodologia para a utilização da interação Comunitária, por meio de Órgãos Governamentais e Não Governamentais - Ten Cel.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.150",
+     "titulo": "2010 - Mediação de Conflitos: Proposta de uma estratégia Institucional, com base nos Direitos Humanos, para a gestão de conflitos em áreas sensíveis - TCel PM Carlos Alberto Paulino",
+     "arquivoId": "26320f95-7f41-43fd-8422-122af2fb2661",
+     "arquivo": "2010 - Mediação de Conflitos - Proposta de uma estratégia Institucional, com base nos Direitos Humanos, para a gestão de conflitos em áreas sensíveis - TEN CEL PM Carlos Albe.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.151",
+     "titulo": "2010 - Ações Sociais como Intrumento estratégico de Prevenção da Criminalidade - TCel PM Deufrânio Barbosa de Carvalho",
+     "arquivoId": "30c0807a-8653-478e-aed8-1420f3e86934",
+     "arquivo": "2010 - Ações Sociais como Intrumento estratégico de Prevenção da Criminalidade - TEN CEL PM Deufrânio Barbosa de Carvalho.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.152",
+     "titulo": "2010 - Polícia, Sociedade e Cidadania- Proposta de avaliação das Unidades de Polícia Pacificadora do Chapéu Mangueira, Babilônia e da Cidade de Deus - Maj PM João Fiorentini Júnior",
+     "arquivoId": "f5bb19b9-2440-4025-a0fc-03f086ccdca4",
+     "arquivo": "2010 - Polícia, Sociedade e Cidadania- Proposta de avaliação das Unidades de Polícia Pacificadora do Chapéu Mangueira, Babilônia e da Cidade de Deus - MAJOR PM João Fiorentini Júnior.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.153",
+     "titulo": "2010 - Controle Preventivo na Polícia Militar do Estado de São Paulo - Aperfeiçoamento e Efetividade no cumprimento aos princípios dos Direitos Humanos - Maj PM Wilson Antonio Botero",
+     "arquivoId": "f129bff2-7854-4169-924e-544108c7132c",
+     "arquivo": "2010 - Controle Preventivo na Polícia Militar do Estado de São Paulo - Aperfeiçoamento e Efetividade no cumprimento aos princípios dos Direitos Humanos - MAJOR PM Wilson Ant.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.154",
+     "titulo": "2010 - A Preservação da Ordem Pública diante dos Empreendimentos de significativo impacto Socioambiental - Maj PM Wilson Antonio Botero",
+     "arquivoId": "fc8cd9ab-6757-4d10-98c8-e5a1e2e13b7e",
+     "arquivo": "2010 - A Preservação da Ordem Pública diante dos Empreendimentos de significativo impacto Socioambiental - MAJOR PM Wilson Antonio Botero.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.155",
+     "titulo": "2011 - Prevenção Primária como fator preponderante para a Segurança Pública - Maj PM Gilberto Tardochi da Silva",
+     "arquivoId": "4ecec46d-eb94-4713-870c-a7581b232c2a",
+     "arquivo": "2011 - Prevenção Primária como fator preponderante para a Segurança Pública - MAJOR PM Gilberto Tardochi da Silva.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.156",
+     "titulo": "2011 - Avaliação da gestão nas Bases Comunitárias de Segurança Distritais intaladas na Área do CPI-4 - Cap PM Alan Coshitz Terra",
+     "arquivoId": "12d18b5c-47bf-498e-9be8-acf5250ab46d",
+     "arquivo": "2011 - Avaliação da gestão nas Bases Comunitárias de Segurança Distritais intaladas na Área do CPI-4 - CAP PM Alan Coshitz Terra.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.157",
+     "titulo": "2011- A iniciativa do Comando da 4ª Companhia do 23º BPM/I quanto ao uso das informações contidas em Boletins de Ocorrência da Polícia Militar para encaminhamento  de medidas de caráter social no Município de Cruzeiro. Um estudo de caso - Cap PM Felipe  Neri Vani",
+     "arquivoId": "0b6d200a-5931-4a41-a49f-d9e729e63040",
+     "arquivo": "felipe_neri_vani-1.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.158",
+     "titulo": "2011- Atuação do Policial Militar como Agente Público em áreas fragilizadas, em face da ação de organizações criminosas: a prevenção como forma de combater o Crime Organizado - Cap PM Genivaldo Antonio",
+     "arquivoId": "f9005f49-e8e0-43ed-aefc-aff11f622d19",
+     "arquivo": "2011- Atuação do Policial MIlitar como Agente Público em áreas fragilizadas, em face da ação de organizações criminosas - A prevenção como forma de combater o Crime Organizad.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.159",
+     "titulo": "2012 - Ações Sociais da Companhia PM e seus reflexos na sensação de Segurança -Cap PM Alipio de Lima Rios",
+     "arquivoId": "152f45f8-9b76-4ad3-a5db-0c91a6c1a060",
+     "arquivo": "2012 - Ações Sociais da Companhia PM e seus reflexos na sensação de Segurança - CAP PM Alipio de Lima Rios.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.160",
+     "titulo": "2012 - Viabilidade de expansão das Bases Comunitárias de Segurança Distrital - Chuzaicho frente as dificuldades de sedimentação do Policiamento Comunitário - Cap PM Anderson Caldeira Lima",
+     "arquivoId": "20de5f00-ffbb-42f8-9713-6497adf62eb9",
+     "arquivo": "teste.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.162",
+     "titulo": "2012 - O gestor do Policiamento Territorial, mediador da Comunidade: Um estudo de caso no Parque Novo Mundo - Cap PM Cássio Pereira Novaes",
+     "arquivoId": "68e83b25-fb98-44e6-9ad4-dc45da6e3395",
+     "arquivo": "2012 - O gestor do Policiamento Territorial mediador da Comunidade - Um estudo de caso no Parque Novo Mundo - CAP PM Cássio Pereira Novaes.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.163",
+     "titulo": "2012 - Parâmetros Técnicos às Prefeituras Municipais da Baixada Santista, para a criação de Núcleos Comunitários de Defesa Civil em Assentamentos precários, voltados à prevencão e combate de princípios de incêndios - Cap PM Daniel Tenório dos Santos",
+     "arquivoId": "5379d5f1-b19f-4c93-9037-c15e760e544e",
+     "arquivo": "2012 - Parâmetros Técnicos às Prefeituras Municipais da Baixada Santista, para a criação de Núcleos Comunitários de Defesa Civil em Assentamentos precários, voltados à preven.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.164",
+     "titulo": "2012 - Áreas vulneráveis - Estudo voltado para aumentar a sensação de segurança para a população local - Cap PM Denilson Miotto",
+     "arquivoId": "81286d72-fce1-4c62-a7d5-bdbd0935f7e5",
+     "arquivo": "2012 - Áreas vulneráveis - Estudo voltado para aumentar a sensação de segurança para a população local - CAP PM Denilson Miotto.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.165",
+     "titulo": "2012 - Ações de Polícia Ostensiva como meios probatórios para embasar responsabilização em decorrência de Poluição Sonora - Cap PM Fábio Ricardo Ferreira",
+     "arquivoId": "c1105bbe-ec11-435a-b99f-c288eb5d500f",
+     "arquivo": "2012 - Ações de Polícia Ostensiva como meios probatórios para embasar responsabilização em decorrência de Poluição Sonora - CAP PM Fábio Ricardo Ferreira.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.166",
+     "titulo": "2012 - A importância da função Didático-Pedagógica do Policial Militar junto a Comunidade - Cap PM Luiz Antonio Rosa",
+     "arquivoId": "4f19d990-67d1-433f-8ebb-c3b71a94b70f",
+     "arquivo": "2012 - A importância da função Didático-Pedagógica do Policial Militar junto a Comunidade - CAP PM Luiz Antonio Rosa.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.167",
+     "titulo": "2016 - Manual de Mediação Judicial - De acordo com a Lei 13.140/15 (Lei de Mediação), a Lei 13.105/15 (Novo  Código de Processo Civil) e a Emenda 2 da Resolução 125/10 - Conselho Nacional de Justiça",
+     "arquivoId": "81764d00-5589-42de-87a3-05f4a5253cc0",
+     "arquivo": "manual de mediação judicial - aguardando autorização.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    },
+    {
+     "codigo": "9.168",
+     "titulo": "2022 - Construindo a Polícia Militar do século XXI - Cel PM Fernando Alencar Medeiros",
+     "arquivoId": "58303fa9-88ce-41a0-9126-84ebf6d75e55",
+     "arquivo": "CONSTRUINDO A POLÍCIA MILITAR DO SÉCULO XXI - CEL PM FERNANDO ALENCAR MEDEIROS.pdf",
+     "tipo": "pdf",
+     "copiado": false
+    }
+   ]
+  },
+  {
+   "codigo": "10",
+   "nome": "TREINAMENTO E CAPACITAÇÃO",
+   "itens": [
+    {
+     "codigo": "10.1",
+     "titulo": "Orientações para Agendamento das Reuniões dos CONSEGs 2023 (Área Restrita)",
+     "arquivoId": "41a6bd68-4f2a-4eca-8026-b995a7a2a1f5",
+     "arquivo": "2023 - Orientações p. Agendamento das Reuniões dos CONSEGs.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "10.2",
+     "titulo": "Manual de Ata Eletrônica",
+     "arquivoId": "6fdee6dd-7fc3-42c5-bfbd-65869833dcd3",
+     "arquivo": "MANUAL DE ATA ELETRÔNICA.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "10.3",
+     "titulo": "Primeiro acesso ao e-mail funcional do CONSEG e dicas de proteção contra Spams",
+     "arquivoId": "850659f4-6b53-40ef-be12-9d266f8f01c3",
+     "arquivo": "Primeiro acesso do Email Funcioanal do CONSEG e Dicas de proteção contra Spams.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  },
+  {
+   "codigo": "11",
+   "nome": "DESINCOMPATIBILIZAÇÃO ELEITORAL 2026",
+   "itens": [
+    {
+     "codigo": "11.1",
+     "titulo": "PORTARIA Nº 001-2026 - DESINCOMPATIBILIZAÇÃO ELEITORAL",
+     "arquivoId": "76977127-5d06-474c-bed0-5573c600f682",
+     "arquivo": "1. PORTARIA Nº 001-2026 - DESINCOMPATIBILIZAÇÃO ELEITORAL - DOE.pdf",
+     "tipo": "pdf",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "11.2",
+     "titulo": "OFÍCIO DE DESINCOMPATILIZAÇÃO ELEITORAL",
+     "arquivoId": "e9fb96e9-b76f-4b08-9ec5-c3734ffcf0c4",
+     "arquivo": "2. OFÍCIO DE DESINCOMPATILIZAÇÃO ELEITORAL.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    },
+    {
+     "codigo": "11.3",
+     "titulo": "OFÍCIO DE REINTEGRAÇÃO",
+     "arquivoId": "f77ef183-a58c-4fc5-a2d3-309d0e6cb54e",
+     "arquivo": "3. OFÍCIO DE REINTEGRAÇÃO.docx",
+     "tipo": "docx",
+     "copiado": false,
+     "acesso": "negado (não testado nesta coleta)"
+    }
+   ]
+  }
+ ]
+}

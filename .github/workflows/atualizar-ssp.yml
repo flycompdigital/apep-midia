@@ -1,0 +1,52 @@
+# Atualiza toda semana os dados públicos da Coordenadoria Estadual dos CONSEG (SSP-SP):
+# CONSEGs (reuniões, e-mail, diretoria, foto do presidente, delegacia e companhia), história e base de conhecimento.
+# Quando algo muda, abre um PR para revisão (nada vai direto para a main).
+name: Atualizar dados da SSP
+
+on:
+  schedule:
+    - cron: "13 6 * * 1" # segunda-feira, 3h13 em Brasília
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ferramentas de texto
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils antiword
+      - name: Pillow (fotos)
+        run: pip install pillow
+      - name: Coletar história
+        run: python3 conseg-cidadao/scripts/coletar_historia.py
+      - name: Coletar CONSEGs
+        run: python3 conseg-cidadao/scripts/coletar_consegs.py
+      - name: Coletar base de conhecimento
+        run: python3 conseg-cidadao/scripts/coletar_base.py
+      - name: Abrir PR se houver mudança
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # A data da coleta muda sempre; só abre PR se mudou algo além dela.
+          git add -A conseg-cidadao/dados-ssp conseg-cidadao/documentos
+          if git diff --cached --quiet -I '"atualizadoEm"'; then
+            echo "Sem mudanças nos dados."
+            exit 0
+          fi
+          ramo="dados-ssp-$(date +%Y%m%d)"
+          git config user.name "FlyComp Digital"
+          git config user.email "fsw@flycomp.digital"
+          git checkout -b "$ramo"
+          git commit -m "Atualiza dados da SSP ($(date +%d/%m/%Y))"
+          git push origin "$ramo"
+          gh pr create --base main --head "$ramo" \
+            --title "Dados da SSP: atualização de $(date +%d/%m/%Y)" \
+            --body "Coleta semanal automática do portal da Coordenadoria Estadual dos CONSEG (SSP-SP): CONSEGs, reuniões e base de conhecimento. Revise e faça o merge para publicar."
