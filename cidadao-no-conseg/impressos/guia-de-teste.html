@@ -1,0 +1,99 @@
+<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><title>Cidadão no CONSEG — guia de teste para tutores</title>
+<style>
+@page{size:A4;margin:0}*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:210mm}body{font-family:Inter,sans-serif;color:#17212d;background:#f7f4ec;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.pg{width:210mm;height:297mm;position:relative;overflow:hidden;page-break-after:always;break-after:page}
+.pg:last-child{page-break-after:auto;break-after:auto}
+.top{background:#17212d;color:#fff;padding:8mm 14mm 10mm;clip-path:polygon(0 0,100% 0,100% 86%,0 100%)}
+.top .lg{height:12mm;display:block}
+.eb{margin-top:5mm;font-size:8.5pt;font-weight:800;letter-spacing:2px;color:#e3a630;text-transform:uppercase}
+h1{font-weight:900;font-size:26pt;line-height:1.05;margin-top:2mm;letter-spacing:-.3px}h1 b{color:#e3a630}
+.sub{margin-top:3mm;font-size:10pt;line-height:1.5;color:#cbd5e1;max-width:160mm}
+.body{padding:3mm 14mm 0}
+h2{font-size:12.5pt;font-weight:900;text-transform:uppercase;letter-spacing:.3px;margin:4.5mm 0 2.2mm}h2 b{color:#06543c}
+.txt{font-size:9.6pt;line-height:1.5;color:#334155}
+.acesso{display:grid;grid-template-columns:repeat(3,1fr);gap:3mm}
+.ac{background:#06543c;color:#fff;border-radius:3mm;padding:3mm 4mm}
+.ac small{display:block;font-size:7.6pt;font-weight:800;letter-spacing:1px;color:#e3a630;text-transform:uppercase}
+.ac b{display:block;font-size:15pt;margin-top:.6mm}.ac span{display:block;font-size:8pt;color:#d1fae5;margin-top:.6mm;line-height:1.35}
+.passos{display:grid;gap:2.4mm}
+.p{background:#fff;border-radius:3mm;padding:2.8mm 4mm;border-left:1.4mm solid #e3a630;box-shadow:0 .5mm 2mm rgba(0,0,0,.06);display:flex;gap:3.5mm}
+.p .n{flex:none;width:7mm;height:7mm;border-radius:50%;background:#e3a630;color:#17212d;font-weight:900;font-size:10pt;display:flex;align-items:center;justify-content:center}
+.p h3{font-size:10.5pt;margin-bottom:.8mm}.p p{font-size:8.8pt;color:#475569;line-height:1.42}
+.p em{font-style:normal;font-weight:700;color:#17212d}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:3mm}
+.box{background:#fff;border-radius:3mm;padding:3.2mm 4mm;box-shadow:0 .5mm 2mm rgba(0,0,0,.06)}
+.box h3{font-size:10pt;margin-bottom:1.4mm;color:#06543c}
+.box ul{list-style:none;display:grid;gap:1.2mm}.box li{font-size:8.8pt;color:#334155;line-height:1.4;padding-left:4mm;position:relative}
+.box li:before{content:"☐";position:absolute;left:0;color:#06543c;font-weight:900}
+.cta{margin:4mm 14mm 0;background:#17212d;color:#fff;border-radius:4mm;padding:4mm 6mm;display:flex;gap:6mm;align-items:center}
+.cta img{width:26mm;height:26mm;background:#fff;border-radius:2mm;padding:1.2mm;flex:none}.cta h2{color:#e3a630;margin:0 0 1.5mm;font-size:13pt}.cta p{font-size:9.4pt;line-height:1.5;color:#e2e8f0}
+.cta b{color:#fff}
+.aviso{margin:3mm 14mm 0;font-size:7.6pt;color:#64748b;line-height:1.45}
+.foot{position:absolute;left:14mm;right:14mm;bottom:6mm;font-size:7pt;color:#94a3b8;display:flex;justify-content:space-between}
+.tag{display:inline-block;background:#e3a630;color:#17212d;font-size:7.5pt;font-weight:900;letter-spacing:1px;padding:.6mm 2mm;border-radius:10mm;vertical-align:middle;margin-left:2mm}
+</style></head><body>
+
+<section class="pg">
+<div class="top">
+ <img class="lg" src="../marca/cidadao-no-conseg-assinatura.svg" alt="Cidadão no CONSEG">
+ <div class="eb">Guia de teste · versão beta <span class="tag">BETA</span></div>
+ <h1>Teste a plataforma <b>com a gente.</b></h1>
+ <p class="sub">Você foi convidado para testar o Cidadão no CONSEG antes do lançamento. Leva uns 15 minutos. Use à vontade: os dados são de demonstração, ficam só no seu aparelho e nada é enviado ao CONSEG ou à polícia.</p>
+</div>
+<div class="body">
+ <h2>Para <b>entrar</b></h2>
+ <div class="acesso">
+  <div class="ac"><small>Endereço</small><b>con.seg.br</b><span>No celular, de preferência. Pode instalar como app.</span></div>
+  <div class="ac"><small>Senha da área restrita</small><b>conseg</b><span>Para entrar como tutor, adjunto ou coordenador.</span></div>
+  <div class="ac"><small>Código do WhatsApp</small><b>123456</b><span>No teste, o código não chega de verdade: use este.</span></div>
+ </div>
+
+ <h2>1. Como <b>morador</b></h2>
+ <div class="passos">
+  <div class="p"><div class="n">1</div><div><h3>Entre na Minha rua</h3><p>Abra o menu <em>☰</em> e toque em <em>Minha rua</em>. Digite um nome, escolha uma das ruas de exemplo e confirme que não é um robô.</p></div></div>
+  <div class="p"><div class="n">2</div><div><h3>Conte um problema com as suas palavras</h3><p>Escreva como falaria no grupo (ex.: <em>“o poste em frente ao 98 está apagado faz uma semana”</em>) e toque em <em>Organizar com o Bip IA</em>. Veja se ele acertou o assunto, o local e a descrição.</p></div></div>
+  <div class="p"><div class="n">3</div><div><h3>Apoie ou registre</h3><p>Se aparecer uma demanda parecida, toque em <em>Também quero</em>. Se não for a sua, registre uma nova e acompanhe em <em>Minhas demandas</em>.</p></div></div>
+  <div class="p"><div class="n">4</div><div><h3>Converse com o Bip IA</h3><p>No botão <em>Bip IA</em>, pergunte o que quiser sobre o CONSEG: “poste apagado é com quem?”, “quando é a reunião?”, “como monto o grupo da rua?”.</p></div></div>
+  <div class="p"><div class="n">5</div><div><h3>Ache o seu CONSEG</h3><p>No menu, <em>Localize seu CONSEG</em>: informe a sua cidade e o CEP ou a rua. Confira se o CONSEG e a próxima reunião estão certos. Estes dados são reais, da SSP.</p></div></div>
+ </div>
+</div>
+<div class="foot"><span>Cidadão no CONSEG · iniciativa da APEP Brasil · versão beta</span><span>1/2</span></div>
+</section>
+
+<section class="pg">
+<div class="body" style="padding-top:10mm">
+ <h2>2. Como <b>tutor da rua</b></h2>
+ <div class="passos">
+  <div class="p"><div class="n">6</div><div><h3>Faça o cadastro de tutor</h3><p>Menu › <em>Seja tutor da sua rua</em>. A <em>Rua dos Ipês</em> está sem adjunto: cadastre-se como <em>Tutor adjunto</em>, use o código <em>123456</em> e simule a assinatura do termo pelo gov.br.</p></div></div>
+  <div class="p"><div class="n">7</div><div><h3>Entre na área restrita</h3><p>Menu › <em>Área restrita</em>. Escolha <em>Tutor</em>, a <em>Rua dos Ipês</em> e a senha <em>conseg</em>. Em <em>Minha rua</em>, aprove o seu próprio pedido de adjunto e cole um link de convite de grupo do WhatsApp.</p></div></div>
+  <div class="p"><div class="n">8</div><div><h3>Monte a pauta da reunião</h3><p>Na aba <em>Demandas</em>, confira o órgão que atende cada pedido. Em <em>Pauta</em>, escolha o que levar e toque em <em>Preparar a fala da reunião</em>: o Bip escreve a fala, agrupada por órgão.</p></div></div>
+  <div class="p"><div class="n">9</div><div><h3>Registre a ata</h3><p>Na aba <em>Ata</em>, anote o número do ofício de cada órgão e o retorno de cada demanda. Depois, marque se foi resolvido na rua.</p></div></div>
+  <div class="p"><div class="n">10</div><div><h3>Veja como coordenador e na Transparência</h3><p>Saia e entre como <em>Coordenador</em> (senha <em>conseg</em>) para ver todas as ruas juntas. Depois abra <em>Transparência</em> no menu e confira os números.</p></div></div>
+ </div>
+
+ <h2>O que <b>observar</b></h2>
+ <div class="cols">
+  <div class="box"><h3>Funciona?</h3><ul>
+   <li>Algum botão não respondeu ou deu erro?</li>
+   <li>O Bip entendeu o que você escreveu?</li>
+   <li>O CONSEG e a reunião da sua rua estão certos?</li>
+   <li>Conseguiu instalar o app no celular?</li>
+  </ul></div>
+  <div class="box"><h3>Faz sentido?</h3><ul>
+   <li>Algum texto ficou confuso ou longo demais?</li>
+   <li>Faltou algo que o tutor faz hoje no grupo?</li>
+   <li>O órgão sugerido para cada demanda está certo?</li>
+   <li>Você usaria isso na sua rua? O que faltaria?</li>
+  </ul></div>
+ </div>
+</div>
+
+<div class="cta">
+ <img src="qr-conseg.svg" alt="QR Code con.seg.br">
+ <div><h2>Conte o que achou</h2><p>Aponte a câmera para o código e teste em <b>con.seg.br</b>. Mande suas observações, de preferência com print da tela, pelo link <b>Conte o que achou</b> na faixa amarela ou no menu, ou direto no WhatsApp <b>(11) 97289-6035</b>.</p></div>
+</div>
+<p class="aviso">O Cidadão no CONSEG é uma iniciativa da sociedade civil, mantida pela APEP Brasil (associação em formação). Não é canal oficial do Governo do Estado nem dos Conselhos Comunitários de Segurança, e não substitui os serviços de emergência: em caso de suspeita ou emergência, ligue 190. Denúncia anônima: 181. Nesta versão de teste, não informe dados pessoais reais nas demandas.</p>
+<div class="foot"><span>Cidadão no CONSEG · iniciativa da APEP Brasil · versão beta</span><span>2/2</span></div>
+</section>
+</body></html>
