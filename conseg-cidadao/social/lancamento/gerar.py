@@ -3,7 +3,7 @@ import asyncio, pathlib, shutil
 from playwright.async_api import async_playwright
 
 D = pathlib.Path(__file__).parent.resolve()
-for f in ["conseg-cidadao.svg", "apep-logo.png", "qr-conseg.svg"]:
+for f in ["conseg-cidadao-assinatura.svg", "apep-logo.png", "qr-conseg.svg"]:
     origem = D.parents[1] / ("impressos" if f.startswith("qr-") else "marca")
     shutil.copy(origem / f, D / f)
 
@@ -35,12 +35,12 @@ def rod(n, t, fim=False):
     return f'<span><b>CONSEG Cidadão</b> · APEP Brasil</span><span class="sw">{"" if fim else "Arraste →&nbsp;&nbsp;"}{n}/{t}</span>'
 
 SLIDES = [
- tela('<img class="lg" src="conseg-cidadao.svg"><div class="eb">Tecnologia cívica</div><h1>A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve tudo, bem fundamentado, à reunião mensal do CONSEG da sua região.</p>', rod(1, 4)),
+ tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><div class="eb">Tecnologia cívica</div><h1>A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve tudo, bem fundamentado, à reunião mensal do CONSEG da sua região.</p>', rod(1, 4)),
  tela('<div class="eb" style="margin-top:0">O que é o CONSEG</div><h2>Todo mês, a comunidade e as polícias <span class="g">na mesma mesa.</span></h2><p class="s">Os Conselhos Comunitários de Segurança tratam dos problemas de segurança do bairro. Quem chega com a pauta organizada é ouvido com mais força.</p>', rod(2, 4)),
  tela('<div class="eb" style="margin-top:0">Como funciona</div><div class="card"><b>1</b><h3>Organize a rua</h3><p>Grupo no WhatsApp com um tutor responsável.</p></div><div class="card"><b>2</b><h3>Registre as demandas</h3><p>Segurança e zeladoria, com local e data.</p></div><div class="card"><b>3</b><h3>Leve ao CONSEG</h3><p>O tutor apresenta a pauta na reunião mensal.</p></div><div class="card"><b>4</b><h3>Acompanhe as respostas</h3><p>E cobre o retorno nas reuniões seguintes.</p></div>', rod(3, 4)),
  tela('<div class="eb" style="margin-top:0">Pauta da rua</div><h2>Do grupo da rua <span class="g">à reunião do CONSEG.</span></h2><div class="pauta"><div>💡 Poste apagado na esquina</div><div>🌳 Árvore cobrindo a iluminação</div><div>🚗 Veículo abandonado na rua</div></div><span class="btn">con.seg.br</span>', rod(4, 4, True)),
 ]
-STORY = tela('<img class="lg" src="conseg-cidadao.svg"><h1 style="font-size:96px">A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve a pauta à reunião mensal do CONSEG.</p><img src="qr-conseg.svg" style="width:300px;background:#fff;border-radius:24px;padding:14px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br</span>',
+STORY = tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><h1 style="font-size:96px">A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve a pauta à reunião mensal do CONSEG.</p><img src="qr-conseg.svg" style="width:300px;background:#fff;border-radius:24px;padding:14px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br</span>',
              '<span><b>CONSEG Cidadão</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
 
 async def main():
