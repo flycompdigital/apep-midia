@@ -1,9 +1,9 @@
-"""Carrossel (1080x1350) e story (1080x1920): app do Cidadão no CONSEG e o Bip IA."""
+"""Carrossel (1080x1350) e story (1080x1920) de lançamento do Cidadão no CONSEG."""
 import asyncio, pathlib, shutil
 from playwright.async_api import async_playwright
 
 D = pathlib.Path(__file__).parent.resolve()
-for f in ["conseg-cidadao-assinatura.svg", "apep-logo.png"]:
+for f in ["cidadao-no-conseg-assinatura.svg", "apep-logo.png", "qr-conseg.svg"]:
     origem = D.parents[1] / ("impressos" if f.startswith("qr-") else "marca")
     shutil.copy(origem / f, D / f)
 
@@ -25,11 +25,6 @@ p.s{font-size:44px;line-height:1.45;color:#cbd5e1;margin-top:30px}
 .foot{position:absolute;left:90px;right:90px;bottom:60px;display:flex;justify-content:space-between;font-size:28px;color:#94a3b8;border-top:2px solid rgba(255,255,255,.1);padding-top:24px;z-index:2}
 .foot b{color:#fff}.sw{color:#e3a630;font-weight:700}
 .btn{display:inline-block;margin-top:40px;background:#e3a630;color:#17212d;font-weight:900;font-size:40px;padding:24px 44px;border-radius:999px;align-self:flex-start}
-.fone{position:absolute;right:0;top:430px;width:280px;border-radius:56px;border:12px solid #0b1118;box-shadow:0 30px 80px rgba(0,0,0,.5);overflow:hidden;z-index:3}
-.fone img{display:block;width:100%}
-.chip{display:inline-block;border:3px solid rgba(227,166,48,.6);border-radius:999px;padding:18px 30px;font-size:34px;margin:14px 10px 0 0;color:#fff}
-.passo{display:flex;gap:22px;align-items:center;font-size:40px;margin-top:26px}.passo i{flex:none;width:72px;height:72px;border-radius:50%;background:#e3a630;color:#17212d;font-style:normal;font-weight:900;display:grid;place-items:center}
-.aviso{font-size:28px;color:#94a3b8;margin-top:36px;line-height:1.4}
 """
 
 def tela(corpo, rodape, story=False):
@@ -40,12 +35,12 @@ def rod(n, t, fim=False):
     return f'<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">{"" if fim else "Arraste →&nbsp;&nbsp;"}{n}/{t}</span>'
 
 SLIDES = [
- tela('<style>.w{justify-content:flex-start}</style><img class="lg" src="conseg-cidadao-assinatura.svg"><div class="eb">Novo</div><h1 style="font-size:90px">O Cidadão no CONSEG <span class="g">no seu celular.</span></h1><p class="s" style="max-width:540px;font-size:40px">App gratuito, com o Bip IA para tirar dúvidas e a área para registrar as demandas da rua.</p><div class="fone"><img src="app-bip.png"></div>', rod(1, 4)),
- tela('<div class="eb" style="margin-top:0">Conheça o Bip IA</div><h2>Dúvidas sobre o CONSEG? <span class="g">Pergunte 24h.</span></h2><p class="s">O assistente do Cidadão no CONSEG explica como funciona o conselho, ajuda a organizar a rua e transforma a reclamação em uma demanda bem escrita.</p><div style="margin-top:26px"><span class="chip">O que é o CONSEG?</span><span class="chip">Poste apagado é com quem?</span><span class="chip">Como escrevo a demanda?</span></div>', rod(2, 4)),
- tela('<div class="eb" style="margin-top:0">Área do cidadão</div><h2>A demanda da rua <span class="g">registrada e acompanhada.</span></h2><div class="card"><b>1</b><h3>Registre</h3><p>O que é, onde e desde quando. Sem nomes de pessoas.</p></div><div class="card"><b>2</b><h3>Apoie</h3><p>Toque em "Também quero" nas demandas dos vizinhos.</p></div><div class="card"><b>3</b><h3>Acompanhe</h3><p>Veja o que foi à pauta e o retorno do CONSEG.</p></div>', rod(3, 4)),
- tela('<div class="eb" style="margin-top:0">Instale em segundos</div><h2>Abra <span class="g">con.seg.br/app</span> no celular.</h2><div class="passo"><i>📱</i><span><b>iPhone:</b> Compartilhar → Adicionar à Tela de Início</span></div><div class="passo"><i>🤖</i><span><b>Android:</b> toque em Instalar</span></div><span class="btn">con.seg.br/app</span><p class="aviso">Não é canal oficial nem de emergência. Emergência: 190. Denúncia anônima: 181.</p>', rod(4, 4, True)),
+ tela('<img class="lg" src="cidadao-no-conseg-assinatura.svg"><div class="eb">Tecnologia cívica</div><h1>A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve tudo, bem fundamentado, à reunião mensal do CONSEG da sua região.</p>', rod(1, 4)),
+ tela('<div class="eb" style="margin-top:0">O que é o CONSEG</div><h2>Todo mês, a comunidade e as polícias <span class="g">na mesma mesa.</span></h2><p class="s">Os Conselhos Comunitários de Segurança tratam dos problemas de segurança do bairro. Quem chega com a pauta organizada é ouvido com mais força.</p>', rod(2, 4)),
+ tela('<div class="eb" style="margin-top:0">Como funciona</div><div class="card"><b>1</b><h3>Organize a rua</h3><p>Grupo no WhatsApp com um tutor responsável.</p></div><div class="card"><b>2</b><h3>Registre as demandas</h3><p>Segurança e zeladoria, com local e data.</p></div><div class="card"><b>3</b><h3>Leve ao CONSEG</h3><p>O tutor apresenta a pauta na reunião mensal.</p></div><div class="card"><b>4</b><h3>Acompanhe as respostas</h3><p>E cobre o retorno nas reuniões seguintes.</p></div>', rod(3, 4)),
+ tela('<div class="eb" style="margin-top:0">Pauta da rua</div><h2>Do grupo da rua <span class="g">à reunião do CONSEG.</span></h2><div class="pauta"><div>💡 Poste apagado na esquina</div><div>🌳 Árvore cobrindo a iluminação</div><div>🚗 Veículo abandonado na rua</div></div><span class="btn">con.seg.br</span>', rod(4, 4, True)),
 ]
-STORY = tela('<img class="lg" src="conseg-cidadao-assinatura.svg"><h1 style="font-size:92px">O Cidadão no CONSEG <span class="g">no seu celular.</span></h1><p class="s">Bip IA 24h e as demandas da sua rua num app gratuito.</p><img src="qr-app.png" style="width:300px;border-radius:24px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br/app</span>',
+STORY = tela('<img class="lg" src="cidadao-no-conseg-assinatura.svg"><h1 style="font-size:96px">A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve a pauta à reunião mensal do CONSEG.</p><img src="qr-conseg.svg" style="width:300px;background:#fff;border-radius:24px;padding:14px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br</span>',
              '<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
 
 async def main():

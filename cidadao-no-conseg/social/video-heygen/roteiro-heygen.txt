@@ -7,7 +7,7 @@ Apresentador: avatar já criado (blazer azul), voz em português do Brasil, tom 
 Estilo: institucional, limpo, motion graphics nas cores da APEP (azul-marinho #17212d, dourado #e3a630, verde #06543c, fundo claro #f7f4ec)
 
 ASSETS ANEXADOS (usar exatamente estes arquivos, sem redesenhar):
-- conseg-cidadao-logo.png: logo do Cidadão no CONSEG (texto branco: usar sobre fundo escuro).
+- cidadao-no-conseg-logo.png: logo do Cidadão no CONSEG (texto branco: usar sobre fundo escuro).
 - apep-logo.png: logo da APEP Brasil (texto branco: usar sobre fundo escuro).
 - qrcode-conseg.png: QR code que abre con.seg.br. Mostrar inteiro, reto, com a borda branca, grande e parado por pelo menos 3 segundos. Não recortar, distorcer nem animar.
 

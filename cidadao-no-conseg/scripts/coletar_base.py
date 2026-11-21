@@ -10,7 +10,7 @@ Fonte: http://www.ssp.sp.gov.br/conseg/portal/downloads (API pública usada pela
   com link para o arquivo oficial; o conteúdo delas não é copiado.
 
 Precisa de pdftotext (poppler-utils). .doc antigo usa antiword ou soffice, se houver; senão fica só listado.
-Uso: python3 conseg-cidadao/scripts/coletar_base.py
+Uso: python3 cidadao-no-conseg/scripts/coletar_base.py
 """
 import html, json, urllib.error, pathlib, re, shutil, subprocess, sys, tempfile, time, unicodedata, urllib.parse, urllib.request, zipfile
 from datetime import datetime, timezone

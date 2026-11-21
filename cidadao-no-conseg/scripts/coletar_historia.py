@@ -1,10 +1,10 @@
 """História do CONSEG, do portal da Coordenadoria Estadual dos CONSEG (SSP-SP).
 
 Fonte: http://www.ssp.sp.gov.br/conseg/portal/conseg/historia
-Saída: conseg-cidadao/dados-ssp/historia.json e historia.md (texto oficial, sem alteração).
+Saída: cidadao-no-conseg/dados-ssp/historia.json e historia.md (texto oficial, sem alteração).
 Rode antes do coletar_base.py, que junta a história aos trechos do Bip IA.
 
-Uso: python3 conseg-cidadao/scripts/coletar_historia.py
+Uso: python3 cidadao-no-conseg/scripts/coletar_historia.py
 """
 import html, json, pathlib, re, urllib.request
 from datetime import datetime, timezone

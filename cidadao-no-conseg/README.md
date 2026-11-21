@@ -23,4 +23,4 @@ Fontes:
 - http://www.ssp.sp.gov.br/conseg/portal/downloads
 - http://www.ssp.sp.gov.br/conseg/portal/conseg/historia
 
-Para rodar à mão: `pip install pillow`, depois `python3 conseg-cidadao/scripts/coletar_historia.py`, `coletar_consegs.py` e `coletar_base.py`, nessa ordem.
+Para rodar à mão: `pip install pillow`, depois `python3 cidadao-no-conseg/scripts/coletar_historia.py`, `coletar_consegs.py` e `coletar_base.py`, nessa ordem.

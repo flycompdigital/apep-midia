@@ -2,10 +2,10 @@
 
 Fonte: http://www.ssp.sp.gov.br/conseg/portal/conseg/localize/null (API pública usada pela própria página).
 Lógica do portal: município + CEP ou logradouro -> delegacia da área -> CONSEG.
-Saída: conseg-cidadao/dados-ssp/consegs.json e, do presidente (cargo público), a foto em dados-ssp/presidentes/<id>.jpg.
+Saída: cidadao-no-conseg/dados-ssp/consegs.json e, do presidente (cargo público), a foto em dados-ssp/presidentes/<id>.jpg.
 Dos demais membros da diretoria guarda nome e cargo, sem foto.
 
-Uso: python3 conseg-cidadao/scripts/coletar_consegs.py
+Uso: python3 cidadao-no-conseg/scripts/coletar_consegs.py
 """
 import base64, io, json, pathlib, re, sys, time, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
