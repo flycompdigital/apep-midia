@@ -1,4 +1,4 @@
-ROTEIRO — CONSEG CIDADÃO | APEP BRASIL | 30 SEGUNDOS
+ROTEIRO — CIDADÃO NO CONSEG | APEP BRASIL | 30 SEGUNDOS
 
 Formato: vídeo vertical 9:16
 Duração: aproximadamente 30 segundos
@@ -9,12 +9,12 @@ Estilo: institucional, limpo, motion graphics nas cores da APEP (azul-marinho #1
 ASSETS ANEXADOS (usar exatamente estes arquivos, sem redesenhar):
 - cidadao-no-conseg-logo.png: logo do Cidadão no CONSEG (texto branco: usar sobre fundo escuro).
 - apep-logo.png: logo da APEP Brasil (texto branco: usar sobre fundo escuro).
-- qrcode-conseg.png: QR code que abre con.seg.br. Mostrar inteiro, reto, com a borda branca, grande e parado por pelo menos 3 segundos. Não recortar, distorcer nem animar.
+- qrcode-conseg.png: QR code que abre cidadaonoconseg.com.br. Mostrar inteiro, reto, com a borda branca, grande e parado por pelo menos 3 segundos. Não recortar, distorcer nem animar.
 
 GLOSSÁRIO DE PRONÚNCIA (Brand Glossary):
 CONSEG = Consségue
 APEP = A-pépi
-con.seg.br = con ponto seg ponto bê érre
+cidadaonoconseg.com.br = cidadão no conseg ponto com ponto bê érre
 
 CENA 1 — ABERTURA | 0–5s
 NARRAÇÃO: Poste apagado, árvore cobrindo a luz, carro abandonado. A sua rua sabe o que precisa.
@@ -40,9 +40,9 @@ TEXTOS NA TELA: Apartidária · 0% de verba pública
 VISUAL: Logo da APEP Brasil sobre fundo azul-marinho.
 
 CENA 5 — CONVITE | 25–30s
-NARRAÇÃO: Leve o Cidadão no CONSEG para a sua rua. Acesse con ponto seg ponto bê érre.
-TEXTOS NA TELA: con.seg.br / Escaneie para conhecer
-VISUAL: Logo do Cidadão no CONSEG, QR code literal e "con.seg.br" em destaque.
+NARRAÇÃO: Leve o Cidadão no CONSEG para a sua rua. Acesse cidadão no conseg ponto com ponto bê érre.
+TEXTOS NA TELA: cidadaonoconseg.com.br / Escaneie para conhecer
+VISUAL: Logo do Cidadão no CONSEG, QR code literal e "cidadaonoconseg.com.br" em destaque.
 RODAPÉ FIXO NESTA CENA (texto pequeno): Iniciativa da sociedade civil. Não é canal oficial do Governo nem dos CONSEGs. Em emergência, ligue 190.
 
 O QUE NÃO DIZER NEM MOSTRAR:

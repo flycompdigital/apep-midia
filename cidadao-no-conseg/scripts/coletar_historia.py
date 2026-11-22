@@ -22,7 +22,7 @@ def texto(h):
 
 
 def main():
-    req = urllib.request.Request(URL, headers={"User-Agent": "CONSEG Cidadao (con.seg.br) - coleta publica semanal"})
+    req = urllib.request.Request(URL, headers={"User-Agent": "Cidadao no CONSEG (cidadaonoconseg.com.br) - coleta publica semanal"})
     with urllib.request.urlopen(req, timeout=90) as r:
         dados = json.loads(r.read().decode("utf-8"))["data"] or []
     partes = [

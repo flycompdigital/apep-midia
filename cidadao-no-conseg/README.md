@@ -1,4 +1,4 @@
-# Cidadão no CONSEG (con.seg.br)
+# Cidadão no CONSEG (cidadaonoconseg.com.br)
 
 | Pasta | O que tem |
 |---|---|
