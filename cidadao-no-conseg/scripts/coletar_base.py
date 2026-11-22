@@ -37,7 +37,7 @@ class Negado(Exception):
 def pedir(url, binario=False, tentativas=4):
     for t in range(tentativas):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "CONSEG Cidadao (con.seg.br) - coleta publica semanal"})
+            req = urllib.request.Request(url, headers={"User-Agent": "Cidadao no CONSEG (cidadaonoconseg.com.br) - coleta publica semanal"})
             with urllib.request.urlopen(req, timeout=180) as r:
                 dados = r.read()
                 return dados if binario else json.loads(dados.decode("utf-8"))

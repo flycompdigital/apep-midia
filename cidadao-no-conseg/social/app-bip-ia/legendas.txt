@@ -7,7 +7,7 @@ Um app gratuito com:
 💬 Bip IA, um assistente 24h que explica como o CONSEG funciona, ajuda a organizar a rua e transforma a reclamação em uma demanda bem escrita
 📝 Área do cidadão: registre as demandas de segurança e zeladoria da rua, apoie as dos vizinhos e acompanhe o retorno do CONSEG
 
-Para instalar, abra con.seg.br/app no celular.
+Para instalar, abra cidadaonoconseg.com.br/app no celular.
 iPhone: Compartilhar → Adicionar à Tela de Início
 Android: toque em Instalar
 
@@ -16,4 +16,4 @@ O Cidadão no CONSEG é uma iniciativa da sociedade civil mantida pela APEP Bras
 #CidadãoNoCONSEG #CONSEG #BipIA #Cidadania #APEPBrasil
 
 === STORY ===
-Sem legenda. Link no sticker: https://con.seg.br/app
+Sem legenda. Link no sticker: https://cidadaonoconseg.com.br/app

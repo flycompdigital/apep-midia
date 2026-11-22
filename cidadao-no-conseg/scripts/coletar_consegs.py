@@ -45,7 +45,7 @@ def get(caminho, tentativas=4):
     url = BASE + caminho
     for t in range(tentativas):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "CONSEG Cidadao (con.seg.br) - coleta publica semanal", "Accept": "application/json"})
+            req = urllib.request.Request(url, headers={"User-Agent": "Cidadao no CONSEG (cidadaonoconseg.com.br) - coleta publica semanal", "Accept": "application/json"})
             with urllib.request.urlopen(req, timeout=90) as r:
                 return json.loads(r.read().decode("utf-8"))
         except Exception as e:  # noqa: BLE001
