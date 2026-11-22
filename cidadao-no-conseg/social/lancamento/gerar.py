@@ -40,6 +40,16 @@ SLIDES = [
  tela('<div class="eb" style="margin-top:0">Como funciona</div><div class="card"><b>1</b><h3>Organize a rua</h3><p>Grupo no WhatsApp com um tutor responsável.</p></div><div class="card"><b>2</b><h3>Registre as demandas</h3><p>Segurança e zeladoria, com local e data.</p></div><div class="card"><b>3</b><h3>Leve ao CONSEG</h3><p>O tutor apresenta a pauta na reunião mensal.</p></div><div class="card"><b>4</b><h3>Acompanhe as respostas</h3><p>E cobre o retorno nas reuniões seguintes.</p></div>', rod(3, 4)),
  tela('<div class="eb" style="margin-top:0">Pauta da rua</div><h2>Do grupo da rua <span class="g">à reunião do CONSEG.</span></h2><div class="pauta"><div>💡 Poste apagado na esquina</div><div>🌳 Árvore cobrindo a iluminação</div><div>🚗 Veículo abandonado na rua</div></div><span class="btn">con.seg.br</span>', rod(4, 4, True)),
 ]
+# Imagem única (Facebook e LinkedIn): sem "Arraste" e sem numeração.
+RESUMO = tela('<img class="lg" src="cidadao-no-conseg-assinatura.svg"><h2 style="margin-top:34px">A voz da sua rua <span class="g">no CONSEG.</span></h2>'
+ + ''.join(f'<div class="card" style="padding:20px 30px;margin-top:16px"><h3 style="font-size:38px;margin-top:0"><span class="g">{n}.</span> {t}</h3><p style="font-size:29px">{d}</p></div>' for n, t, d in [
+   (1, "Organize a rua", "Grupo no WhatsApp com um tutor responsável."),
+   (2, "Registre as demandas", "Segurança e zeladoria, com local e data."),
+   (3, "Leve ao CONSEG", "O tutor apresenta a pauta na reunião mensal."),
+   (4, "Acompanhe as respostas", "E cobre o retorno nas reuniões seguintes.")])
+ + '<span class="btn" style="margin-top:30px">con.seg.br</span>',
+ '<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">Apartidária · 0% verba pública</span>')
+
 STORY = tela('<img class="lg" src="cidadao-no-conseg-assinatura.svg"><h1 style="font-size:96px">A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve a pauta à reunião mensal do CONSEG.</p><img src="qr-conseg.svg" style="width:300px;background:#fff;border-radius:24px;padding:14px;margin-top:40px"><span class="btn" style="margin-top:28px">con.seg.br</span>',
              '<span><b>Cidadão no CONSEG</b> · APEP Brasil</span><span class="sw">Iniciativa da sociedade civil</span>', story=True)
 
@@ -50,6 +60,9 @@ async def main():
             f = D / f"slide{i}.html"; f.write_text(html, encoding="utf-8")
             pg = await b.new_page(viewport={"width": 1080, "height": 1350}); await pg.goto(f.as_uri()); await pg.wait_for_timeout(400)
             await pg.screenshot(path=str(D / f"slide{i}.jpg"), type="jpeg", quality=92); await pg.close()
+        f = D / "resumo.html"; f.write_text(RESUMO, encoding="utf-8")
+        pg = await b.new_page(viewport={"width": 1080, "height": 1350}); await pg.goto(f.as_uri()); await pg.wait_for_timeout(400)
+        await pg.screenshot(path=str(D / "resumo.jpg"), type="jpeg", quality=92); await pg.close()
         f = D / "story.html"; f.write_text(STORY, encoding="utf-8")
         pg = await b.new_page(viewport={"width": 1080, "height": 1920}); await pg.goto(f.as_uri()); await pg.wait_for_timeout(400)
         await pg.screenshot(path=str(D / "story.jpg"), type="jpeg", quality=92)
