@@ -37,14 +37,14 @@ def rod(n, t, fim=False):
 SLIDES = [
  tela('<img class="lg" src="cidadao-no-conseg-assinatura.svg"><div class="eb">Tecnologia cívica</div><h1>A voz da sua rua <span class="g">no CONSEG.</span></h1><p class="s">Organize a rua, registre as demandas e leve tudo, bem fundamentado, à reunião mensal do CONSEG da sua região.</p>', rod(1, 4)),
  tela('<div class="eb" style="margin-top:0">O que é o CONSEG</div><h2>Todo mês, a comunidade e as polícias <span class="g">na mesma mesa.</span></h2><p class="s">Os Conselhos Comunitários de Segurança tratam dos problemas de segurança do bairro. Quem chega com a pauta organizada é ouvido com mais força.</p>', rod(2, 4)),
- tela('<div class="eb" style="margin-top:0">Como funciona</div><div class="card"><b>1</b><h3>Organize a rua</h3><p>Grupo no WhatsApp com um tutor responsável.</p></div><div class="card"><b>2</b><h3>Registre as demandas</h3><p>Segurança e zeladoria, com local e data.</p></div><div class="card"><b>3</b><h3>Leve ao CONSEG</h3><p>O tutor apresenta a pauta na reunião mensal.</p></div><div class="card"><b>4</b><h3>Acompanhe as respostas</h3><p>E cobre o retorno nas reuniões seguintes.</p></div>', rod(3, 4)),
+ tela('<div class="eb" style="margin-top:0">Como funciona</div><div class="card"><b>1</b><h3>Organize a rua</h3><p>Grupo no WhatsApp com um ou dois tutores.</p></div><div class="card"><b>2</b><h3>Registre as demandas</h3><p>Segurança, trânsito e zeladoria, com quem atende.</p></div><div class="card"><b>3</b><h3>Leve ao CONSEG</h3><p>O tutor apresenta a pauta na reunião mensal.</p></div><div class="card"><b>4</b><h3>Acompanhe as respostas</h3><p>E cobre o retorno nas reuniões seguintes.</p></div>', rod(3, 4)),
  tela('<div class="eb" style="margin-top:0">Pauta da rua</div><h2>Do grupo da rua <span class="g">à reunião do CONSEG.</span></h2><div class="pauta"><div>💡 Poste apagado na esquina</div><div>🌳 Árvore cobrindo a iluminação</div><div>🚗 Veículo abandonado na rua</div></div><span class="btn">cidadaonoconseg.com.br</span>', rod(4, 4, True)),
 ]
 # Imagem única (Facebook e LinkedIn): sem "Arraste" e sem numeração.
 RESUMO = tela('<img class="lg" src="cidadao-no-conseg-assinatura.svg"><h2 style="margin-top:34px">A voz da sua rua <span class="g">no CONSEG.</span></h2>'
  + ''.join(f'<div class="card" style="padding:20px 30px;margin-top:16px"><h3 style="font-size:38px;margin-top:0"><span class="g">{n}.</span> {t}</h3><p style="font-size:29px">{d}</p></div>' for n, t, d in [
-   (1, "Organize a rua", "Grupo no WhatsApp com um tutor responsável."),
-   (2, "Registre as demandas", "Segurança e zeladoria, com local e data."),
+   (1, "Organize a rua", "Grupo no WhatsApp com um ou dois tutores."),
+   (2, "Registre as demandas", "Segurança, trânsito e zeladoria, com quem atende."),
    (3, "Leve ao CONSEG", "O tutor apresenta a pauta na reunião mensal."),
    (4, "Acompanhe as respostas", "E cobre o retorno nas reuniões seguintes.")])
  + '<span class="btn" style="margin-top:30px">cidadaonoconseg.com.br</span>',
