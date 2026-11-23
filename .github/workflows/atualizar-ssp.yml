@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Ferramentas de texto
@@ -26,11 +26,32 @@ jobs:
       - name: Pillow (fotos)
         run: pip install pillow
       - name: Coletar história
-        run: python3 cidadao-no-conseg/scripts/coletar_historia.py
+        run: |
+          # O portal da SSP às vezes não responde: até 3 tentativas, com 2 minutos entre elas.
+          for tentativa in 1 2 3; do
+            python3 cidadao-no-conseg/scripts/coletar_historia.py && exit 0
+            echo "::warning::Coletar história: tentativa $tentativa falhou."
+            [ "$tentativa" -lt 3 ] && sleep 120
+          done
+          exit 1
       - name: Coletar CONSEGs
-        run: python3 cidadao-no-conseg/scripts/coletar_consegs.py
+        run: |
+          # O portal da SSP às vezes não responde: até 3 tentativas, com 2 minutos entre elas.
+          for tentativa in 1 2 3; do
+            python3 cidadao-no-conseg/scripts/coletar_consegs.py && exit 0
+            echo "::warning::Coletar CONSEGs: tentativa $tentativa falhou."
+            [ "$tentativa" -lt 3 ] && sleep 120
+          done
+          exit 1
       - name: Coletar base de conhecimento
-        run: python3 cidadao-no-conseg/scripts/coletar_base.py
+        run: |
+          # O portal da SSP às vezes não responde: até 3 tentativas, com 2 minutos entre elas.
+          for tentativa in 1 2 3; do
+            python3 cidadao-no-conseg/scripts/coletar_base.py && exit 0
+            echo "::warning::Coletar base de conhecimento: tentativa $tentativa falhou."
+            [ "$tentativa" -lt 3 ] && sleep 120
+          done
+          exit 1
       - name: Abrir PR se houver mudança
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
