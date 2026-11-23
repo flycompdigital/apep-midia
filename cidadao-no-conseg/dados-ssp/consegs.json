@@ -1,7 +1,7 @@
 {
  "fonte": "Coordenadoria Estadual dos CONSEG - SSP-SP (portal público)",
  "url": "http://www.ssp.sp.gov.br/conseg/portal/conseg/localize/null",
- "atualizadoEm": "2026-11-21T09:50:48+00:00",
+ "atualizadoEm": "2026-11-23T18:31:28+00:00",
  "municipios": [
   {
    "id": 2,
@@ -146,10 +146,6 @@
   {
    "id": 90,
    "nome": "BRODOWSKI"
-  },
-  {
-   "id": 91,
-   "nome": "BROTAS"
   },
   {
    "id": 94,
@@ -850,6 +846,10 @@
   {
    "id": 485,
    "nome": "RIBEIRÃO CORRENTE"
+  },
+  {
+   "id": 486,
+   "nome": "RIBEIRÃO DO SUL"
   },
   {
    "id": 489,
@@ -3400,62 +3400,6 @@
    "presidenteFoto": null
   },
   {
-   "id": 42,
-   "nome": "BROTAS",
-   "sigla": "BRO",
-   "codigoRIC": "I09RDPM3720BRO0042",
-   "situacao": 0,
-   "regiao": "I",
-   "email": "brotas@conseg.sp.gov.br",
-   "presidente": "DELMA CELI GIMENEZ",
-   "eleicao": "2013-06-20",
-   "homologacao": "2022-05-04",
-   "oficio": "CC019/2022",
-   "policiaCivil": {
-    "idDelegacia": 70613,
-    "delegacia": "DEL.POL.BROTAS",
-    "seccional": "DEL.SEC.RIO CLARO",
-    "departamento": "DEINTER 9 - PIRACICABA"
-   },
-   "policiaMilitar": {
-    "idCompanhia": 609372000,
-    "companhia": "2.CIA PM",
-    "batalhao": "37.BPM/I",
-    "comando": "CPI-9"
-   },
-   "idMunicipio": 91,
-   "municipio": "BROTAS",
-   "reunioes": [],
-   "diretoria": [
-    {
-     "nome": "DELMA CELI GIMENEZ",
-     "idCargo": 1,
-     "cargo": "Presidente"
-    },
-    {
-     "nome": "ALEXANDRE TAKASHI SCHIAVINATO",
-     "idCargo": 2,
-     "cargo": "Vice-Presidente"
-    },
-    {
-     "nome": "ANDREA APARECIDA RODRIGUES",
-     "idCargo": 3,
-     "cargo": "Primeiro Secretário"
-    },
-    {
-     "nome": "RODRIGO BRAGA SALDANHA",
-     "idCargo": 4,
-     "cargo": "Segundo Secretário"
-    },
-    {
-     "nome": "JOSÉ BENEDITO DA SILVA BRAGA FILHO",
-     "idCargo": 6,
-     "cargo": "Diretor Social"
-    }
-   ],
-   "presidenteFoto": null
-  },
-  {
    "id": 866,
    "nome": "BURITIZAL",
    "sigla": "BZL",
@@ -3603,7 +3547,17 @@
    },
    "idMunicipio": 96,
    "municipio": "CABREÚVA",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-27T10:00:00",
+     "local": "Centro Administrativo Prefetura - Galeria Melvile",
+     "endereco": "Rua Antonio Furquim, Nº 220 - Jacaré - Cabreúva",
+     "cep": "13318108",
+     "online": false,
+     "link": "https://www.google.com/maps/place/Galeria+Melville/@-23.2455968,-47.0591613,18.25z/data=!4m10!1m2!2m1!1sGaleria+Melville+n%C2%B0A-01+na+Rua+Ant%C3%B4nio+Furquim+n%C2%B0220+-+Bairro+do+Jacar%C3%A9+qual+o+cep!3m6!1s0x94cf3b29168f3311:0x25ceebc8579407dd!8m2!3d-23.2459365!4d-47.0580019!15sClZHYWxlcmlhIE1lbHZpbGxlIG7CsEEtMDEgbmEgUnVhIEFudMO0bmlvIEZ1cnF1aW0gbsKwMjIwIC0gQmFpcnJvIGRvIEphY2Fyw6kgcXVhbCBvIGNlcJIBD3Nob3BwaW5nX2NlbnRlcuABAA!16s%2Fg%2F11j7hy0w52?entry=ttu",
+     "pauta": "Reunião Mensal"
+    }
+   ],
    "diretoria": [
     {
      "nome": "NICOLAS PEREIRA",
@@ -4128,13 +4082,13 @@
    "municipio": "CAMPINAS",
    "reunioes": [
     {
-     "data": "2026-12-08T19:00:00",
+     "data": "2026-12-15T19:00:00",
      "local": "Salão Social da Igreja Cristo Rei",
      "endereco": "Rua Gago Coutinho, Nº 31 - Jardim Chapadão - Campinas",
      "cep": "13070077",
      "online": false,
      "link": null,
-     "pauta": "Segurança Pública na região de abrangência do Conseg Chapadão Programa Vizinhança Solidária Temas relacionados à segurança"
+     "pauta": "Segurança pública na região do Conseg Chapadão Campinas"
     }
    ],
    "diretoria": [
@@ -4548,7 +4502,17 @@
    },
    "idMunicipio": 110,
    "municipio": "CAMPO LIMPO PAULISTA",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-30T19:00:00",
+     "local": "3º e 4º Pelotão da 3ª Cia do 49º BPMI",
+     "endereco": "Av. dos Emancipadores, Nº 633 - Jd. Sta Catarina - Campo Limpo Paulista",
+     "cep": "13330-00",
+     "online": false,
+     "link": null,
+     "pauta": null
+    }
+   ],
    "diretoria": [
     {
      "nome": "DIEGO DOS SANTOS PAREDES",
@@ -4810,7 +4774,17 @@
    },
    "idMunicipio": 122,
    "municipio": "CARAPICUÍBA",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-26T19:00:00",
+     "local": "Kolping Vila Dirce",
+     "endereco": "Avenida Inocêncio Seráfico, Nº 3850 - Vila Dirce - Carapicuíba",
+     "cep": "06343410",
+     "online": false,
+     "link": null,
+     "pauta": "SEGURANÇA PUBLICA DENTRO DO MUNICIPIO. ATENDIMENTO AOS MUNICIPES PRESENTES. ENGAJAMENTO DAS POLICIAS JUNTO AOS MUNICIPES. ORIENTAÇÕES DAS AUTORIDADES PRESENTES JUNTO AO PRESENTES. PERTURBAÇÃO DO SOSSEGO,OPERAÇÕES CONJUNTAS DA POLICIAS."
+    }
+   ],
    "diretoria": [
     {
      "nome": "OSVALDO IZIDÓRIO DE ARAUJO",
@@ -5104,7 +5078,17 @@
    },
    "idMunicipio": 132,
    "municipio": "CESÁRIO LANGE",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-26T15:00:00",
+     "local": "camara municipal de Cesário Lange",
+     "endereco": "Av.trez de maio , Nº 1368 - centro - Cesário Lange",
+     "cep": "18285000",
+     "online": false,
+     "link": null,
+     "pauta": "assuntos sobre as eleições, pautas sobre os ofícios anteriores ,muralha paulista"
+    }
+   ],
    "diretoria": [
     {
      "nome": "SÉRGIO FELIX DE ALMEIDA",
@@ -6434,7 +6418,17 @@
    },
    "idMunicipio": 163,
    "municipio": "DUMONT",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-24T19:00:00",
+     "local": "Camara Municipal de Dumont",
+     "endereco": "Rua Santos Dumont , Nº 172 - Centro - Dumont",
+     "cep": "14120-00",
+     "online": false,
+     "link": null,
+     "pauta": "Diversos assuntos de interesse da comunidade."
+    }
+   ],
    "diretoria": [
     {
      "nome": "HOMERO DE OLIVEIRA ELIAS",
@@ -8088,6 +8082,15 @@
    "idMunicipio": 215,
    "municipio": "GUARULHOS",
    "reunioes": [
+    {
+     "data": "2026-12-01T19:30:00",
+     "local": "COLEGIO ADVENTISTA",
+     "endereco": "Rua Vicente Melro, Nº 1072 - Jardim Vila Galvão - Guarulhos",
+     "cep": "07056110",
+     "online": false,
+     "link": null,
+     "pauta": "SEGURANÇA PUBLICA"
+    },
     {
      "data": "2027-03-02T19:30:00",
      "local": "COLEGIO ADVENTISTA",
@@ -11113,7 +11116,17 @@
    },
    "idMunicipio": 312,
    "municipio": "LUCÉLIA",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-26T15:00:00",
+     "local": "Casa da Agricultura",
+     "endereco": "Rua Ricieri Pernomian,1250, Nº 1250 - Centro - Lucélia",
+     "cep": "17780000",
+     "online": false,
+     "link": null,
+     "pauta": "Balanço do mês de novembro"
+    }
+   ],
    "diretoria": [
     {
      "nome": "RODRIGO APARECIDO FAZAN",
@@ -11417,7 +11430,17 @@
    },
    "idMunicipio": 333,
    "municipio": "MAUÁ",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-26T19:00:00",
+     "local": "ETEC Mauá (Escola Técnica Estadual)",
+     "endereco": "Rua Ribeirão Preto, Nº 75 - Matriz - Mauá",
+     "cep": "09370530",
+     "online": false,
+     "link": "https://www.google.com/maps/place/Escola+T%C3%A9cnica+Estadual+de+Mau%C3%A1/@-23.6723755,-46.4628926,862m/data=!3m2!1e3!4b1!4m6!3m5!1s0x94ce6ec94dd368cd:0x37003ca4a72ae4c1!8m2!3d-23.6723755!4d-46.4628926!16s%2Fg%2F11bwl3ns7x?entry=ttu&g_ep=EgoyMDI2MDQxMi4wIKXMDSoASAFQAw%3D%3D",
+     "pauta": "Saudação inicial Breve explicação do que é o Conseg Apresentação da mesa E palavra livre para participantes Pautas anexada conforme as demandas.l"
+    }
+   ],
    "diretoria": [
     {
      "nome": "PAULO CESAR SOUZA DOS SANTOS",
@@ -15865,6 +15888,62 @@
    "presidenteFoto": null
   },
   {
+   "id": 493,
+   "nome": "RIBEIRÃO DO SUL",
+   "sigla": "RIS",
+   "codigoRIC": "I04ODPM3111RIS0493",
+   "situacao": 0,
+   "regiao": "I",
+   "email": "ribeiraodosul@conseg.sp.gov.br",
+   "presidente": "Anézio Adriel Brito",
+   "eleicao": null,
+   "homologacao": "2011-03-22",
+   "oficio": "CC009/2011",
+   "policiaCivil": {
+    "idDelegacia": 80309,
+    "delegacia": "DEL.POL.RIBEIRAO DO SUL",
+    "seccional": "DEL.SEC.OURINHOS",
+    "departamento": "DEINTER 4 - BAURU"
+   },
+   "policiaMilitar": {
+    "idCompanhia": 604311000,
+    "companhia": "1.CIA PM",
+    "batalhao": "31.BPM/I",
+    "comando": "CPI-4"
+   },
+   "idMunicipio": 486,
+   "municipio": "RIBEIRÃO DO SUL",
+   "reunioes": [],
+   "diretoria": [
+    {
+     "nome": "Anézio Adriel Brito",
+     "idCargo": 1,
+     "cargo": "Presidente"
+    },
+    {
+     "nome": "Wilson Cândido de Melo",
+     "idCargo": 2,
+     "cargo": "Vice-Presidente"
+    },
+    {
+     "nome": "Leticia Regieli de Brito Andrade",
+     "idCargo": 3,
+     "cargo": "Primeiro Secretário"
+    },
+    {
+     "nome": "Jonathan Vieira Ferreira",
+     "idCargo": 4,
+     "cargo": "Segundo Secretário"
+    },
+    {
+     "nome": "Fabio Luis Quintana de Faria",
+     "idCargo": 6,
+     "cargo": "Diretor Social"
+    }
+   ],
+   "presidenteFoto": null
+  },
+  {
    "id": 956,
    "nome": "RIBEIRÃO PIRES",
    "sigla": "RIP",
@@ -17712,7 +17791,17 @@
    },
    "idMunicipio": 537,
    "municipio": "SANTO ANDRÉ",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-26T19:00:00",
+     "local": "Clube Vasco da Gama",
+     "endereco": "Rua Erato, Nº 223 - Vila América - Santo André",
+     "cep": "09110370",
+     "online": false,
+     "link": null,
+     "pauta": null
+    }
+   ],
    "diretoria": [
     {
      "nome": "RUBENS ROBERVALDO MARTINS DOS SANTOS",
@@ -19440,7 +19529,7 @@
    "municipio": "SÃO FRANCISCO",
    "reunioes": [
     {
-     "data": "2026-11-23T17:00:00",
+     "data": "2026-11-25T17:00:00",
      "local": "Centro Cultural de São Francisco",
      "endereco": "R SANTA CATARINA, Nº s/n - CENTRO - São Francisco",
      "cep": "15710000",
@@ -19827,7 +19916,17 @@
    },
    "idMunicipio": 559,
    "municipio": "SÃO JOSÉ DO RIO PRETO",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-12-10T19:00:00",
+     "local": "pinherinho",
+     "endereco": "Rua Beatriz da Conceição, Nº 340 - Solo Sagrado - São José do Rio Preto",
+     "cep": "15044120",
+     "online": false,
+     "link": "https://www.google.com/maps/place/R.+Beatriz+da+Concei%C3%A7%C3%A3o,+340+-+Solo+Sagrado,+S%C3%A3o+Jos%C3%A9+do+Rio+Preto+-+SP,+15044-120/@-20.7806396,-49.4116693,17z/data=!3m1!4b1!4m6!3m5!1s0x94bdac56fccbd93d:0xc5bf036c35a2bfb9!8m2!3d-20.7806396!4d-49.409089!16s%2Fg%2F11g9w77fvn?entry=ttu&g_ep=EgoyMDI1MDMxOS4xIKXMDSoASAFQAw%3D%3D",
+     "pauta": "- Confraternização - Devolutivas e recesso"
+    }
+   ],
    "diretoria": [
     {
      "nome": "REBECA CORTEZ DE FREITAS",
@@ -26447,11 +26546,6 @@
      "cargo": "Presidente"
     },
     {
-     "nome": "NEUZA MARIA SARTORI",
-     "idCargo": 2,
-     "cargo": "Vice-Presidente"
-    },
-    {
      "nome": "IVAM RUSSI NASCIMENTO",
      "idCargo": 3,
      "cargo": "Primeiro Secretário"
@@ -27133,7 +27227,17 @@
    "semDetalhe": true,
    "idMunicipio": 619,
    "municipio": "TUPÃ",
-   "reunioes": [],
+   "reunioes": [
+    {
+     "data": "2026-11-24T09:00:00",
+     "local": "Sede da Associação Comercial e Industrial de Tupã",
+     "endereco": "Praça da Bandeira, Nº 373 - Centro - Tupã",
+     "cep": "17601-14",
+     "online": false,
+     "link": null,
+     "pauta": "Assuntos pertinentes ao Conseg"
+    }
+   ],
    "diretoria": [
     {
      "nome": "EMERSON SADAYUKI IWAMI",
