@@ -62,6 +62,24 @@ Conheça em cidadaonoconseg.com.br
 
 #CidadãoNoCONSEG #TecnologiaCívica #Zeladoria #APEPBrasil
 
+## LinkedIn (documento carrossel.pdf, envio manual)
+
+Título do documento: Árvore com risco na sua rua: o caminho até o CONSEG
+
+Texto da publicação:
+
+Árvore com risco na rua se resolve antes da próxima chuva.
+
+Neste documento, o passo a passo do Cidadão no CONSEG: a rua junta fotos e endereços, pede vistoria à subprefeitura pelo 156 e leva os protocolos à reunião mensal do CONSEG, acompanhando até a resposta.
+
+Em emergência, 193 (Bombeiros) ou 199 (Defesa Civil).
+
+Fonte do dado: SBT News (23/11/2026)
+
+Conheça em cidadaonoconseg.com.br
+
+#CidadãoNoCONSEG #Zeladoria #APEPBrasil
+
 ## Story
 
 Sem legenda. Link no sticker: https://cidadaonoconseg.com.br. Destaque sugerido: "CONSEG".

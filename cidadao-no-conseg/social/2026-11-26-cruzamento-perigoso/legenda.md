@@ -70,6 +70,24 @@ Conheça em cidadaonoconseg.com.br
 
 #CidadãoNoCONSEG #SegurançaViária #TecnologiaCívica #APEPBrasil
 
+## LinkedIn (documento carrossel.pdf, envio manual)
+
+Título do documento: Cruzamento perigoso: do relato da rua à pauta do CONSEG
+
+Texto da publicação:
+
+Relato solto se perde. Relato organizado vira pauta.
+
+Neste documento, o passo a passo do Cidadão no CONSEG para um cruzamento perigoso: a rua reúne os relatos com data, horário e local, pede estudo à CET pelo 156 e leva a pauta à reunião mensal do CONSEG, acompanhando o retorno.
+
+Em emergência, 190.
+
+Fontes: Urgente News, com informações do Metrópoles; Encontra Jardim Anália Franco
+
+Conheça em cidadaonoconseg.com.br
+
+#CidadãoNoCONSEG #SegurançaViária #APEPBrasil
+
 ## Story
 
 Sem legenda. Link no sticker: https://cidadaonoconseg.com.br. Destaque sugerido: "CONSEG".

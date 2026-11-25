@@ -51,6 +51,20 @@ Conheça o portal em luminat21.org
 
 #SíndromeDeDown #Inclusão #TecnologiaSocial #LuminaT21 #APEPBrasil
 
+## LinkedIn (documento carrossel.pdf, envio manual)
+
+Título do documento: Inclusão se faz junto: LuminaT21 e a rede de famílias T21
+
+Texto da publicação:
+
+Às vésperas do Dia Internacional das Pessoas com Deficiência (3 de dezembro), apresentamos o LuminaT21 neste documento: o portal da APEP Brasil para famílias de pessoas com síndrome de Down, com a Lumina, assistente que responde às dúvidas das famílias em linguagem simples, e a rede de famílias T21 da Zona Leste de São Paulo.
+
+A Lumina orienta e encaminha, mas não substitui médicos e terapeutas.
+
+Conheça o portal em luminat21.org
+
+#SíndromeDeDown #Inclusão #LuminaT21
+
 ## Story
 
 Sem legenda. Link no sticker: https://luminat21.org. Menção: @familiast21_zonaleste. Destaque sugerido: "LuminaT21".
